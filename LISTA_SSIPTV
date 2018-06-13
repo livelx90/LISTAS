@@ -49,16 +49,22 @@ http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4K.png" group-title="PORTUGAL",SPORT TV 4K (Copyright © 2018 by TeamBlue)
 http://94.63.223.60:10000/stream/channelid/648633748
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2018 by TeamBlue)
+http://p15.quest123.top:8088/live/crlmafoda/playlist.m3u8?id=99369&wowzasessionid=3893473309&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV HD (Copyright © 2018 by TeamBlue)
 http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4133.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" group-title="PORTUGAL",SPORTING TV (Copyright © 2018 by TeamBlue)
 http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4099.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="PORTUGAL",EUROSPORT 1 PT (Copyright © 2018 by TeamBlue)
+http://193.70.44.176:8080/live/Afonso/AFONSO/1499.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="PORTUGAL",EUROSPORT 1 HD PT (Copyright © 2018 by TeamBlue)
+http://193.70.44.176:8080/live/Afonso/AFONSO/23.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISION.png" group-title="PORTUGAL",MOTORVISION TV (Copyright © 2018 by TeamBlue)
 http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4121.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="PORTUGAL",PFC (Copyright © 2018 by TeamBlue)
 http://paraisotv.ddns.net:80/097/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2018 by TeamBlue)
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4139.m3u8
+http://p15.quest123.top:8088/live/abolatvdesporto/playlist.m3u8?id=97370&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" group-title="PORTUGAL",DISNEY CHANNEL (Copyright © 2018 by TeamBlue)
 http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/21739.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2018 by TeamBlue)
@@ -182,7 +188,7 @@ http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4080.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2lsP3Gh" group-title="PORTUGAL",TV RECORD HD (Copyright © 2018 by TeamBlue)
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png" group-title="PORTUGAL",EURONEWS (Copyright © 2018 by TeamBlue)
-http://2gb1.tvcdn.online:7477/live/VhR88qp0ks/u7rKXVEkWe/4146.m3u8
+http://euronews-pt-b2-cdn.hexaglobe.net/7fd0bebf61e80f9f9bac54461e3d008c/5b20f117/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptbkp_por.smil/ewnsabrptbkp_por_540p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" group-title="PORTUGAL",CNN (Copyright © 2018 by TeamBlue)
 http://playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" group-title="PORTUGAL",FOX NEWS (Copyright © 2018 by TeamBlue)
