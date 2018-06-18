@@ -43,8 +43,8 @@ http://193.70.44.176:8080/live/Afonso/AFONSO/390.m3u8
 https://sportsbar.pw/lba/123/g5/SportTV1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 FHD
 http://93.190.141.81:8585/live/Sala/Sala/44.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2
-http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g7/Sport2PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
+https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
 http://sportsbar.pw/lba/123/g3/SportTV3.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
@@ -754,7 +754,7 @@ http://p15.quest123.top:8088/live/1234wq/playlist.m3u8?id=99514&pk=ea6596833839e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" tvg-id=" group-title="ESPANHA",MOVISTAR FORMULA 1 HD
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png" tvg-id=" group-title="ESPANHA",MOVISTAR MOTO GP
-http://xxedge1408.livesports.pw/live/motogp/chunklist.m3u8?md5=fyn3w1IgQkp3khHtdwn0HA&expires=1529069005 
+http://xxedge1397.livesports.pw/live/motogp/chunklist.m3u8?md5=16UmC8VLvIZlVrDHEGHvjA&expires=1529144671
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png" tvg-id=" group-title="ESPANHA",MOVISTAR MOTO GP HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" tvg-id=" group-title="ESPANHA",MOVISTAR GOLF
@@ -868,11 +868,11 @@ http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LEQUIPE.png" tvg-id=" group-title="FRANÇA",L'EQUIPE 21
 http://ec.playmedia.fr/lequipe21/live/chunklist_w811887822.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 1
-http://86.242.219.151:8000/play/a002/index.m3u8
+http://163.172.220.115:8080/rAMdannbein/beinspfr1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 2
-http://86.242.219.151:8000/play/a006/index.m3u8
+http://163.172.220.115:8080/rAMdannbein/beinspfr2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS3.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 3
-http://86.242.219.151:8000/play/a007/index.m3u8
+http://163.172.220.115:8080/rAMdannbein/beinspfr3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id=" group-title="FRANÇA",DISNEY CHANNEL
 http://86.242.219.151:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id=" group-title="FRANÇA",DISNEY CHANNEL +1
