@@ -13,6 +13,8 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV
+http://p05.quest123.top:8088/live/cmtvtvdesporto/playlist.m3u8?id=98747&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" tvg-id="PortoCanal.pt" group-title="PORTUGAL",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL
@@ -33,6 +35,8 @@ http://sportsbar.pw/lba/123/g9/SportTV5.m3u8
 http://painel.iptvmove.com:80/live/diogombc/diogombc/1269.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" tvg-id="PFC" group-title="PORTUGAL",PFC HD
 http://painel.iptvmove.com:80/live/diogombc/diogombc/1378.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A BOLA TV
+http://p05.quest123.top:8088/live/abolatvdesporto/playlist.m3u8?id=97370&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" tvg-id="0" group-title="PORTUGAL",SUPER RTL
 http://81.200.50.4/hls/Super_RTL_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" tvg-id="0" group-title="PORTUGAL",DJING CLASSIC
