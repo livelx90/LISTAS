@@ -2015,6 +2015,8 @@ http://62.210.214.28:80/live?channelId=153&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://163.172.105.25:80/live?channelId=370&deviceMac=00:1a:79:3c:c8:cb&uid=6664
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" tvg-id=" group-title="UK",ELEVEN SPORTS 2
 http://163.172.105.25:80/live?channelId=375&deviceMac=00:1a:79:3c:c8:cb&uid=6664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" tvg-id=" group-title="UK",ELEVEN SPORTS 3
+http://163.172.106.106:80/live?channelId=380&deviceMac=00:1A:79:3C:C9:56&uid=11905
 #EXTINF:-1 tvg-logo="https://www.mulliganssportsbar.co.uk/wp-content/uploads/2017/05/RacingUK-01.png" tvg-id=" group-title="UK",RACING UK
 http://62.210.214.28:80/live?channelId=172&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LFCTV.png" tvg-id=" group-title="UK",LFC TV
