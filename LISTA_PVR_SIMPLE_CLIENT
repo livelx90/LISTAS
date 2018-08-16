@@ -18,7 +18,7 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CM TV
 http://5.189.187.55:8000/live/Fadil/skype/2078.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4048.m3u8
+http://185.93.3.84:5016/play/a006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+ HD
 http://5.189.187.55:8000/live/Fadil/skype/3185.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" tvg-id="TV GloboPortugal" group-title="PORTUGAL",GLOBO
@@ -38,21 +38,21 @@ http://5.189.187.55:8000/live/Fadil/skype/2487.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
 http://77.54.248.94:9981/stream/channelid/2135667
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://5.189.187.55:8000/live/Fadil/skype/858.m3u8
+http://185.93.3.84:5016/play/a001
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2
 http://5.189.187.55:8000/live/Fadil/skype/857.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://5.189.187.55:8000/live/Fadil/skype/2827.m3u8
+http://185.93.3.84:5016/play/a002
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
 http://5.189.187.55:8000/live/Fadil/skype/856.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://5.189.187.55:8000/live/Fadil/skype/2828.m3u8
+http://185.93.3.84:5016/play/a003
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-http://5.189.187.55:8000/live/Fadil/skype/855.m3u8
+http://185.93.3.84:5016/play/a004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
 http://5.189.187.55:8000/live/Fadil/skype/2829.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://5.189.187.55:8000/live/Fadil/skype/2475.m3u8
+http://185.93.3.84:5016/play/a005
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
 http://5.189.187.55:8000/live/Fadil/skype/2830.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BENFICA TV
@@ -160,7 +160,7 @@ http://djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" tvg-id="Mezzo" group-title="PORTUGAL",MEZZO
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id="0" group-title="PORTUGAL",MEZZO LIVE HD
-http://217.64.25.182:8000/play/a02l/index.m3u8
+http://185.93.3.84:5019/play/a02e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" tvg-id="discoverychannel.pt" group-title="PORTUGAL",DISCOVERY
 http://5.189.187.55:8000/live/Fadil/skype/2065.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id="nationalgeographic.pt" group-title="PORTUGAL",NATIONAL GEOGRAPHIC
@@ -232,11 +232,9 @@ http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" tvg-id="0" group-title="PORTUGAL",RTL
 http://5.189.187.55:8000/live/Fadil/skype/2537.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id="0" group-title="PORTUGAL",M6
-http://5.189.187.55:8000/live/Fadil/skype/1434.m3u8
+http://185.93.3.84:5019/play/a02j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id="0" group-title="PORTUGAL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id="0" group-title="PORTUGAL",RAI 1
-http://86.82.79.91:9440/play/a00l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" tvg-id="0" group-title="PORTUGAL",KURIAKOS TV
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" tvg-id="0" group-title="PORTUGAL",KURIAKOS KIDS
@@ -258,7 +256,7 @@ http://62.210.214.28:80/live?channelId=164&amp;deviceMac=00:1A:79:3C:C9:5C&amp;u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png" tvg-id="DISCOVERYHDSC" group-title="PORTUGAL",DISCOVERY SHOWCASE
 http://5.189.187.55:8000/live/Fadil/skype/3187.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id="0" group-title="PORTUGAL",ARTE
-http://5.189.187.55:8000/live/Fadil/skype/885.m3u8
+http://185.93.3.84:5019/play/a02r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="PORTUGAL",REDE TV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="PORTUGAL",REDE TV! HD
@@ -675,8 +673,6 @@ http://212.8.250.12:25461/live/Daniel/1234/16323.m3u8
 http://212.8.250.12:25461/live/Daniel/1234/14326.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id=" group-title="BRASIL",FOOD NETWORK HD
 http://212.8.250.12:25461/live/Daniel/1234/140.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id=" group-title="BRASIL",RAI 1
-http://86.82.79.91:9440/play/a00l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="BRASIL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ALEMANHA.png",ALEMANHA
@@ -771,10 +767,12 @@ http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="BRASIL",France 24 FR
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" tvg-id=" group-title="BRASIL",Sport1
+http://185.93.3.84:5014/play/a005
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" tvg-id=" group-title="BRASIL",Sport1 HD
 http://5.189.187.55:8000/live/Fadil/skype/3254.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" tvg-id=" group-title="BRASIL",Sport1+ HD
-http://5.189.187.55:8000/live/Fadil/skype/2540.m3u8
+http://185.93.3.84:5014/play/a004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logo_Sport1_US_2013.svg/800px-Logo_Sport1_US_2013.svg.png" tvg-id=" group-title="BRASIL",Sport1 US HD
 http://5.189.187.55:8000/live/Fadil/skype/2202.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="BRASIL",Eurosport 1 DE
@@ -782,13 +780,13 @@ http://5.189.187.55:8000/live/Fadil/skype/1409.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="BRASIL",Eurosport 2 DE
 http://5.189.187.55:8000/live/Fadil/skype/3149.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id=" group-title="BRASIL",Sky Sport News
-http://5.189.187.55:8000/live/Fadil/skype/2739.m3u8
+http://185.93.3.84:5014/play/a006
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="BRASIL",Sky Sport 1 DE
-http://5.189.187.55:8000/live/Fadil/skype/3165.m3u8
+http://185.93.3.84:5014/play/a002
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="BRASIL",Sky Sport 1 HD DE
 http://5.189.187.55:8000/live/Fadil/skype/321.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="BRASIL",Sky Sport 2 DE
-http://5.189.187.55:8000/live/Fadil/skype/2632.m3u8
+http://185.93.3.84:5014/play/a001
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="BRASIL",Sky Sport 2 HD DE
 http://5.189.187.55:8000/live/Fadil/skype/320.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="BRASIL",Sky Sport 3 HD DE
@@ -796,9 +794,9 @@ http://5.189.187.55:8000/live/Fadil/skype/2384.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTAUSTRIA.png" tvg-id=" group-title="BRASIL",Sky Sport Austria
 http://5.189.187.55:8000/live/Fadil/skype/2763.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 1
-http://5.189.187.55:8000/live/Fadil/skype/2740.m3u8
+http://185.93.3.84:5014/play/a007
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 1 HD
-http://5.189.187.55:8000/live/Fadil/skype/300.m3u8
+http://185.93.3.84:5014/play/a003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 2 HD
 http://5.189.187.55:8000/live/Fadil/skype/1962.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 3 HD
@@ -838,7 +836,7 @@ http://62.210.93.43:80/live?channelId=107&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png" tvg-id=" group-title="ALEMANHA",MTV Live
 http://5.189.187.55:8000/live/Fadil/skype/3258.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id=" group-title="ALEMANHA",Mezzo Live HD
-http://217.64.25.182:8000/play/a02l/index.m3u8
+http://185.93.3.84:5019/play/a02e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png" tvg-id=" group-title="ALEMANHA",VH1 Classic
 http://217.64.25.182:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DELUXEMUSIC.png" tvg-id=" group-title="ALEMANHA",Deluxe Music
@@ -1212,51 +1210,61 @@ http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_defins
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" tvg-id=" group-title="FRANÇA",TF1 HD
-http://5.189.187.55:8000/live/Fadil/skype/735.m3u8
+http://185.93.3.84:5019/play/a002
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" tvg-id=" group-title="FRANÇA",FRANCE 2 HD
-http://5.189.187.55:8000/live/Fadil/skype/744.m3u8
+http://185.93.3.84:5019/play/a005
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE3.png" tvg-id=" group-title="FRANÇA",FRANCE 3 HD
-http://5.189.187.55:8000/live/Fadil/skype/742.m3u8
+http://185.93.3.84:5019/play/a006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" tvg-id=" group-title="FRANÇA",CANAL+ HD
 http://5.189.187.55:8000/live/Fadil/skype/731.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE5.png" tvg-id=" group-title="FRANÇA",FRANCE 5 HD
-http://5.189.187.55:8000/live/Fadil/skype/740.m3u8
+http://185.93.3.84:5019/play/a007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id=" group-title="FRANÇA",M6
-http://5.189.187.55:8000/live/Fadil/skype/1434.m3u8
+http://185.93.3.84:5019/play/a02j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id=" group-title="FRANÇA",M6 HD
 http://5.189.187.55:8000/live/Fadil/skype/739.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id=" group-title="FRANÇA",ARTE
-http://5.189.187.55:8000/live/Fadil/skype/885.m3u8
+http://185.93.3.84:5019/play/a02r
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/C8.png" tvg-id=" group-title="FRANÇA",C8
-http://5.189.187.55:8000/live/Fadil/skype/817.m3u8
+http://185.93.3.84:5019/play/a02n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/W9.png" tvg-id=" group-title="FRANÇA",W9
 http://5.189.187.55:8000/live/Fadil/skype/736.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/W9.png" tvg-id=" group-title="FRANÇA",W9 HD
 http://5.189.187.55:8000/live/Fadil/skype/2655.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TMC.png" tvg-id=" group-title="FRANÇA",TMC
+http://185.93.3.84:5019/play/a02p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TMC.png" tvg-id=" group-title="FRANÇA",TMC HD
 http://5.189.187.55:8000/live/Fadil/skype/1099.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" tvg-id=" group-title="FRANÇA",NT1
-http://5.189.187.55:8000/live/Fadil/skype/1571.m3u8
+http://185.93.3.84:5019/play/a02t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJ12.png" tvg-id=" group-title="FRANÇA",NRJ12
-http://5.189.187.55:8000/live/Fadil/skype/966.m3u8
+http://185.93.3.84:5019/play/a02y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LCP.png" tvg-id=" group-title="FRANÇA",LA CHAINE PARLAMENTAIRE
+http://185.93.3.84:5019/play/a02s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE4.png" tvg-id=" group-title="FRANÇA",FRANCE 4 HD
-http://5.189.187.55:8000/live/Fadil/skype/741.m3u8
+http://185.93.3.84:5019/play/a01m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMTV.png" tvg-id=" group-title="FRANÇA",BFM TV
-http://bfmtvalive1-a.akamaihd.net/764d0cb6f231489aa3b987832911bc77/eu-central-1/876450610001/dd257bd6bff64eccb0a29b54cc705a07/playlist_ssaiM.m3u8
+http://185.93.3.84:5019/play/a02z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GULLI.png" tvg-id=" group-title="FRANÇA",GULLI
-http://5.189.187.55:8000/live/Fadil/skype/837.m3u8
+http://185.93.3.84:5019/play/a02i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCEO.png" tvg-id=" group-title="FRANÇA",FRANCE Ô HD
-http://5.189.187.55:8000/live/Fadil/skype/745.m3u8
+http://185.93.3.84:5019/play/a01f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HD1.png" tvg-id=" group-title="FRANÇA",HD1
+http://185.93.3.84:5019/play/a02w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LEQUIPE.png" tvg-id=" group-title="FRANÇA",L'EQUIPE 21
 http://ec.playmedia.fr/lequipe21/live/chunklist_w811887822.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/6TER.png" tvg-id=" group-title="FRANÇA",6TER
+http://185.93.3.84:5019/play/a02x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/6TER.png" tvg-id=" group-title="FRANÇA",6TER HD
 http://5.189.187.55:8000/live/Fadil/skype/2693.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NUMERO23.png" tvg-id=" group-title="FRANÇA",NUMERO 23
+http://185.93.3.84:5019/play/a02l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NUMERO23.png" tvg-id=" group-title="FRANÇA",NUMERO 23 HD
 http://5.189.187.55:8000/live/Fadil/skype/2741.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" tvg-id=" group-title="FRANÇA",RMC DECOUVERTE
 http://5.189.187.55:8000/live/Fadil/skype/2388.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHERIE25.png" tvg-id=" group-title="FRANÇA",CHERIE 25
-http://5.189.187.55:8000/live/Fadil/skype/967.m3u8
+http://185.93.3.84:5019/play/a02m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LCI.png" tvg-id=" group-title="FRANÇA",LCI
 http://5.189.187.55:8000/live/Fadil/skype/2795.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL9.png" tvg-id=" group-title="FRANÇA",RTL9
@@ -1283,14 +1291,20 @@ http://5.189.187.55:8000/live/Fadil/skype/2129.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/2127.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS8MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 8 FR
 http://5.189.187.55:8000/live/Fadil/skype/2128.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT1.png" tvg-id=" group-title="FRANÇA",SFR SPORT 1
+http://185.93.3.84:5019/play/a00d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT1.png" tvg-id=" group-title="FRANÇA",SFR SPORT 1 HD
 http://5.189.187.55:8000/live/Fadil/skype/2791.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT2.png" tvg-id=" group-title="FRANÇA",SFR SPORT 2
+http://185.93.3.84:5019/play/a00e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT2.png" tvg-id=" group-title="FRANÇA",SFR SPORT 2 HD
 http://5.189.187.55:8000/live/Fadil/skype/2792.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT3.png" tvg-id=" group-title="FRANÇA",SFR SPORT 3
+http://185.93.3.84:5019/play/a00g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT3.png" tvg-id=" group-title="FRANÇA",SFR SPORT 3 HD
 http://5.189.187.55:8000/live/Fadil/skype/2793.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT5.png" tvg-id=" group-title="FRANÇA",SFR SPORT 5
-http://5.189.187.55:8000/live/Fadil/skype/2912.m3u8
+http://185.93.3.84:5019/play/a00m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id=" group-title="FRANÇA",ELEVEN SPORTS 1
 http://163.172.105.25:80/live?channelId=367&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" tvg-id=" group-title="FRANÇA",ELEVEN SPORTS 2
@@ -1298,11 +1312,13 @@ http://163.172.105.25:80/live?channelId=372&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" tvg-id=" group-title="FRANÇA",ELEVEN SPORTS 3
 http://163.172.105.25:80/live?channelId=377&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="FRANÇA",EUROSPORT 1 HD FR
-http://5.189.187.55:8000/live/Fadil/skype/836.m3u8
+http://185.93.3.84:5019/play/a00p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="FRANÇA",EUROSPORT 2 HD FR
-http://5.189.187.55:8000/live/Fadil/skype/752.m3u8
+http://185.93.3.84:5019/play/a00s
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/3/38/Logo_game_one.png/revision/latest?cb=20171015005822" tvg-id=" group-title="FRANÇA",GAME ONE
 http://5.189.187.55:8000/live/Fadil/skype/2797.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/3/38/Logo_game_one.png/revision/latest?cb=20171015005822" tvg-id=" group-title="FRANÇA",GAME ONE HD
+http://185.93.3.84:5019/play/a01x
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/93/Tevaq2g.png/revision/latest?cb=20171014172952" tvg-id=" group-title="FRANÇA",TEVA HD
 http://5.189.187.55:8000/live/Fadil/skype/748.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AB1.png" tvg-id=" group-title="FRANÇA",AB 1
@@ -1323,6 +1339,8 @@ http://5.189.187.55:8000/live/Fadil/skype/1121.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/3941.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCINEMAGIC.png" tvg-id=" group-title="FRANÇA",DISNEY CINEMA
 http://5.189.187.55:8000/live/Fadil/skype/1139.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCINEMAGIC.png" tvg-id=" group-title="FRANÇA",DISNEY CINEMA HD
+http://185.93.3.84:5019/play/a027
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_premier.png" tvg-id=" group-title="FRANÇA",CINE+ PREMIER HD
 http://5.189.187.55:8000/live/Fadil/skype/718.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OCSMAX.png" tvg-id=" group-title="FRANÇA",OCS MAX HD
@@ -1335,38 +1353,52 @@ http://5.189.187.55:8000/live/Fadil/skype/2373.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/733.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ACTION.png" tvg-id=" group-title="FRANÇA",ACTION
 http://5.189.187.55:8000/live/Fadil/skype/1098.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ACTION.png" tvg-id=" group-title="FRANÇA",ACTION HD
+http://185.93.3.84:5019/play/a023
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCMCINEMA.png" tvg-id=" group-title="FRANÇA",TCM CINEMA
 http://5.189.187.55:8000/live/Fadil/skype/2331.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCMCINEMA.png" tvg-id=" group-title="FRANÇA",TCM CINEMA HD
+http://185.93.3.84:5019/play/a028
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id=" group-title="FRANÇA",PARAMOUNT CHANNEL HD
-http://5.189.187.55:8000/live/Fadil/skype/721.m3u8
+http://185.93.3.84:5019/play/a01v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PLANETE+.png" tvg-id=" group-title="FRANÇA",PLANETE+ HD
-http://5.189.187.55:8000/live/Fadil/skype/1169.m3u8
+http://185.93.3.84:5019/play/a02h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="FRANÇA",NAT GEO CH HD
-http://5.189.187.55:8000/live/Fadil/skype/751.m3u8
+http://185.93.3.84:5019/play/a00z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="FRANÇA",NAT GEO WILD HD
 http://5.189.187.55:8000/live/Fadil/skype/756.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOYAGE.png" tvg-id=" group-title="FRANÇA",VOYAGE
 http://5.189.187.55:8000/live/Fadil/skype/2130.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOYAGE.png" tvg-id=" group-title="FRANÇA",VOYAGE HD
+http://185.93.3.84:5019/play/a01d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" tvg-id=" group-title="FRANÇA",E! ENTERTAINMENT
+http://185.93.3.84:5019/play/a01n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6MUSIC.png" tvg-id=" group-title="FRANÇA",M6 MUSIQUE
 http://5.189.187.55:8000/live/Fadil/skype/1063.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="FRANÇA",MTV HITS
 http://62.210.93.43:80/live?channelId=105&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACEURBAN.png" tvg-id=" group-title="FRANÇA",TRACE URBAN
 http://5.189.187.55:8000/live/Fadil/skype/3244.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACEURBAN.png" tvg-id=" group-title="FRANÇA",TRACE URBAN HD
+http://185.93.3.84:5019/play/a01p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="FRANÇA",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVBREIZH.png" tvg-id=" group-title="FRANÇA",TV BREIZH
-http://5.189.187.55:8000/live/Fadil/skype/2309.m3u8
+http://185.93.3.84:5019/play/a02a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDIEPLUS.png" tvg-id=" group-title="FRANÇA",COMEDIE+
-http://5.189.187.55:8000/live/Fadil/skype/717.m3u8
+http://185.93.3.84:5019/play/a026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/13EMERUE.png" tvg-id=" group-title="FRANÇA",13E RUE HD
 http://5.189.187.55:8000/live/Fadil/skype/987.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="FRANÇA",SYFY
 http://5.189.187.55:8000/live/Fadil/skype/834.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="FRANÇA",SYFY HD
+http://185.93.3.84:5019/play/a01o
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/SERIE_CLUB_2013.png/revision/latest?cb=20150314142323" tvg-id=" group-title="FRANÇA",SERIE CLUB HD
 http://5.189.187.55:8000/live/Fadil/skype/1134.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id=" group-title="FRANÇA",MTV HD
-http://5.189.187.55:8000/live/Fadil/skype/3259.m3u8
+http://185.93.3.84:5019/play/a02g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCM.png" tvg-id=" group-title="FRANÇA",MCM
+http://185.93.3.84:5019/play/a022
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_%28TV%29_logo_2015.png" tvg-id=" group-title="FRANÇA",MANGAS
 http://5.189.187.55:8000/live/Fadil/skype/1104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" tvg-id=" group-title="FRANÇA",GONG
@@ -1388,47 +1420,55 @@ http://5.189.187.55:8000/live/Fadil/skype/1125.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" tvg-id=" group-title="FRANÇA",DISNEY JUNIOR
 http://5.189.187.55:8000/live/Fadil/skype/1634.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/Tiji_logo.png" tvg-id=" group-title="FRANÇA",TIJI
-http://5.189.187.55:8000/live/Fadil/skype/2746.m3u8
+http://185.93.3.84:5019/play/a00y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PIWI+.png" tvg-id=" group-title="FRANÇA",PIWI+
 http://5.189.187.55:8000/live/Fadil/skype/2607.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOOMERANG.png" tvg-id=" group-title="FRANÇA",BOOMERANG
 http://5.189.187.55:8000/live/Fadil/skype/1103.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" tvg-id=" group-title="FRANÇA",CARTOON NETWORK
-http://5.189.187.55:8000/live/Fadil/skype/723.m3u8
+http://185.93.3.84:5019/play/a01t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" tvg-id=" group-title="FRANÇA",NICKELODEON
 http://5.189.187.55:8000/live/Fadil/skype/3151.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png" tvg-id=" group-title="FRANÇA",DISNEY XD
 http://5.189.187.55:8000/live/Fadil/skype/3283.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALJ.png" tvg-id=" group-title="FRANÇA",CANAL J
 http://5.189.187.55:8000/live/Fadil/skype/985.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALJ.png" tvg-id=" group-title="FRANÇA",CANAL J HD
+http://185.93.3.84:5019/play/a01u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELETOON.png" tvg-id=" group-title="FRANÇA",TELETOON+
 http://5.189.187.55:8000/live/Fadil/skype/838.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png" tvg-id=" group-title="FRANÇA",BOING
-http://5.189.187.55:8000/live/Fadil/skype/986.m3u8
+http://185.93.3.84:5019/play/a01k
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/d/d8/Toonami_Asia_logo.png/revision/latest?cb=20170121210022" tvg-id=" group-title="FRANÇA",TOONAMI HD
 http://5.189.187.55:8000/live/Fadil/skype/3643.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_bAyCgweAJs/WUxEs-UJe3I/AAAAAAAAHEE/LyMpsR8MX4EZQzZCTw8tZEpdX-k8JndfwCLcBGAs/s1600/canalplus_fr_infosport_plus.png" tvg-id=" group-title="FRANÇA",INFO SPORT+
 http://5.189.187.55:8000/live/Fadil/skype/1137.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_bAyCgweAJs/WUxEs-UJe3I/AAAAAAAAHEE/LyMpsR8MX4EZQzZCTw8tZEpdX-k8JndfwCLcBGAs/s1600/canalplus_fr_infosport_plus.png" tvg-id=" group-title="FRANÇA",INFO SPORT+ HD
+http://185.93.3.84:5019/play/a01y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABMOTEURS.png" tvg-id=" group-title="FRANÇA",AB MOTEURS
 http://5.189.187.55:8000/live/Fadil/skype/2879.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EQUIDIALIVE.png" tvg-id=" group-title="FRANÇA",EQUIDIA LIVE
 http://5.189.187.55:8000/live/Fadil/skype/835.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EQUIDIALIVE.png" tvg-id=" group-title="FRANÇA",EQUIDIA LIVE HD
+http://185.93.3.84:5019/play/a020
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GOLF+.png" tvg-id=" group-title="FRANÇA",GOLF+
 http://5.189.187.55:8000/live/Fadil/skype/2878.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_PLANETECI" tvg-id=" group-title="FRANÇA",PLANETE+ CI
-http://5.189.187.55:8000/live/Fadil/skype/818.m3u8
+http://185.93.3.84:5019/play/a01z
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/planete_plus_action_experience.png" tvg-id=" group-title="FRANÇA",PLANETE+ A&E
-http://5.189.187.55:8000/live/Fadil/skype/1892.m3u8
+http://185.93.3.84:5019/play/a02b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" tvg-id=" group-title="FRANÇA",DISCOVERY CHANNEL HD
 http://5.189.187.55:8000/live/Fadil/skype/887.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png" tvg-id=" group-title="FRANÇA",DISCOVERY SCIENCE HD
-http://5.189.187.55:8000/live/Fadil/skype/1122.m3u8
+http://185.93.3.84:5019/play/a021
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/USHUAIA.png" tvg-id=" group-title="FRANÇA",USHUAIA TV
 http://5.189.187.55:8000/live/Fadil/skype/737.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/histoire_fr.png" tvg-id=" group-title="FRANÇA",HISTOIRE
-http://5.189.187.55:8000/live/Fadil/skype/1064.m3u8
+http://185.93.3.84:5019/play/a01e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOUTELHISTOIRE.png" tvg-id=" group-title="FRANÇA",TOUTE L'HISTOIRE
 http://5.189.187.55:8000/live/Fadil/skype/2200.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Science_et_Vie_TV_logo_2015.png" tvg-id=" group-title="FRANÇA",SCIENCE & VIE TV HD
+http://185.93.3.84:5019/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMAUX.png" tvg-id=" group-title="FRANÇA",ANIMAUX
 http://5.189.187.55:8000/live/Fadil/skype/1143.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHASSE&PECHE.png" tvg-id=" group-title="FRANÇA",CHASSE & PECHE
@@ -1440,9 +1480,9 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" tvg-id=" group-title="FRANÇA",MEZZO
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id=" group-title="FRANÇA",MEZZO LIVE HD
-http://217.64.25.182:8000/play/a02l/index.m3u8
+http://185.93.3.84:5019/play/a02e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCMTOP.png" tvg-id=" group-title="FRANÇA",MCM TOP
-http://ott-cdn.ucom.am/s49/index.m3u8
+http://185.93.3.84:5019/play/a02c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png" tvg-id=" group-title="FRANÇA",VH1 CLASSIC
 http://217.64.25.182:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="FRANÇA",FRANCE 24 FR
@@ -1471,14 +1511,12 @@ http://5.189.187.55:8000/live/Fadil/skype/3245.m3u8
 https://stream-13.dc3.dailymotion.com/31/dm/3/x62islg/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ITALIA.png",ITALIA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id=" group-title="ITALIA",RAI 1
-http://86.82.79.91:9440/play/a00l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id=" group-title="ITALIA",RAI 1 HD
 http://5.189.187.55:8000/live/Fadil/skype/367.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI2.png" tvg-id=" group-title="ITALIA",RAI 2
-http://86.82.79.91:9440/play/a00m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI3.png" tvg-id=" group-title="ITALIA",RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RETE4.png" tvg-id=" group-title="ITALIA",RETE 4
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RETE4.png" tvg-id=" group-title="ITALIA",RETE 4 HD
 http://5.189.187.55:8000/live/Fadil/skype/370.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png" tvg-id=" group-title="ITALIA",CANALE 5
@@ -1488,17 +1526,17 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png" tvg-id=" group-title="ITALIA",ITALIA1
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA2.png" tvg-id=" group-title="ITALIA",ITALIA2
-http://86.82.79.91:9440/play/a01c
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA7.png" tvg-id=" group-title="ITALIA",LA 7
 http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA5.png" tvg-id=" group-title="ITALIA",LA 5
-http://86.82.79.91:9440/play/a019
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA5.png" tvg-id=" group-title="ITALIA",LA 5
-http://86.82.79.91:9440/play/a019
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/IRIS.png" tvg-id=" group-title="ITALIA",IRIS
 http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOPCRIME.png" tvg-id=" group-title="ITALIA",TOPCRIME
-http://5.189.187.55:8000/live/Fadil/skype/997.m3u8
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" tvg-id=" group-title="ITALIA",RAI 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI5.png" tvg-id=" group-title="ITALIA",RAI 5
@@ -1511,8 +1549,6 @@ http://5.189.187.55:8000/live/Fadil/skype/1521.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISCUOLA.png" tvg-id=" group-title="ITALIA",RAI SCUOLA
 http://5.189.187.55:8000/live/Fadil/skype/1522.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png" tvg-id=" group-title="ITALIA",RAI YOYO
-http://86.82.79.91:9440/play/a00w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png" tvg-id=" group-title="ITALIA",RAI YOYO HD
 http://5.189.187.55:8000/live/Fadil/skype/1525.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png" tvg-id=" group-title="ITALIA",RAI MOVIE
@@ -1522,13 +1558,15 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VIDEOLINA.png" tvg-id=" group-title="ITALIA",VIDEOLINA
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png" tvg-id=" group-title="ITALIA",MEDIASET EXTRA
-http://86.82.79.91:9440/play/a01b
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch09)/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_36E3_6A4_13E_820000_0_0_0.png" tvg-id=" group-title="ITALIA",RSI LA1 HD
 http://5.189.187.55:8000/live/Fadil/skype/854.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_36E4_6A4_13E_820000_0_0_0.png" tvg-id=" group-title="ITALIA",RSI LA2 HD
 http://5.189.187.55:8000/live/Fadil/skype/853.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png" tvg-id=" group-title="ITALIA",SKY TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/TGCOM24.png" tvg-id=" group-title="ITALIA",TGCOM 24
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch10)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" tvg-id=" group-title="ITALIA",RAI NEWS 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="ITALIA",FRANCE 24 EN
@@ -1604,23 +1642,13 @@ http://5.189.187.55:8000/live/Fadil/skype/2131.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="ITALIA",EUROSPORT 2 IT
 http://5.189.187.55:8000/live/Fadil/skype/2132.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG/revision/latest?cb=20161118191326" tvg-id=" group-title="ITALIA",SPORTITALIA
-http://5.189.187.55:8000/live/Fadil/skype/1178.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" tvg-id=" group-title="ITALIA",RAI SPORT 1
-http://86.82.79.91:9440/play/a00t
+https://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-IT_e-885278_i-1866979820180627132246_k-_q-_t-hds/sportitalia247_1@5383/index_2000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" tvg-id=" group-title="ITALIA",RAI SPORT 1 HD
-https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisport1_1800/chunklist.m3u8
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CmFj0p2.png" tvg-id=" group-title="ITALIA",SKY SPORT MOTOGP IT HD
 http://5.189.187.55:8000/live/Fadil/skype/708.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png" tvg-id=" group-title="ITALIA",SKY SPORT F1 IT HD
 http://5.189.187.55:8000/live/Fadil/skype/397.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO 1 HD
-http://5.189.187.55:8000/live/Fadil/skype/2027.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO
-http://5.189.187.55:8000/live/Fadil/skype/358.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO HD
-http://5.189.187.55:8000/live/Fadil/skype/1399.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT HD
-http://5.189.187.55:8000/live/Fadil/skype/1494.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT 2 HD
 http://5.189.187.55:8000/live/Fadil/skype/2207.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" tvg-id=" group-title="ITALIA",FOX SPORTS HD
@@ -1635,8 +1663,6 @@ http://5.189.187.55:8000/live/Fadil/skype/1707.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/357.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="ITALIA",NAT GEO WILD HD
 http://5.189.187.55:8000/live/Fadil/skype/700.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOPEOPLE.png" tvg-id=" group-title="ITALIA",NAT GEO PEOPLE HD
-http://5.189.187.55:8000/live/Fadil/skype/1002.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" tvg-id=" group-title="ITALIA",HISTORY
 http://5.189.187.55:8000/live/Fadil/skype/1208.m3u8
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" tvg-id=" group-title="ITALIA",HISTORY LAB
@@ -1649,12 +1675,6 @@ https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/1181.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3405285164/804f48f225ce563bf5038ae3d698fab5_400x400.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA HD
 http://5.189.187.55:8000/live/Fadil/skype/650.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA 2 HD
-http://5.189.187.55:8000/live/Fadil/skype/1156.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/63ViXvw.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA +24
-http://5.189.187.55:8000/live/Fadil/skype/1392.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W5rqigb.png" tvg-id=" group-title="ITALIA",PREMIUM CINEMA 2 +24
-http://5.189.187.55:8000/live/Fadil/skype/1391.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" tvg-id=" group-title="ITALIA",PREMIUM ACTION HD
 http://5.189.187.55:8000/live/Fadil/skype/1395.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vP0vLFh.png" tvg-id=" group-title="ITALIA",PREMIUM ACTION +24
@@ -1677,8 +1697,6 @@ http://5.189.187.55:8000/live/Fadil/skype/362.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/1393.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" tvg-id=" group-title="ITALIA",PREMIUM STUDIO UNIVERSAL
 http://5.189.187.55:8000/live/Fadil/skype/366.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id=" group-title="ITALIA",DISNEY CHANNEL
-http://5.189.187.55:8000/live/Fadil/skype/1287.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png" tvg-id=" group-title="ITALIA",DISNEY XD
 http://5.189.187.55:8000/live/Fadil/skype/1182.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" tvg-id=" group-title="ITALIA",CARTOON NETWORK
@@ -2102,9 +2120,11 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="UK",ESPN 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" tvg-id=" group-title="UK",NFL NETWORK
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/2730.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg/revision/latest?cb=20150803005255" tvg-id=" group-title="UK",NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" tvg-id=" group-title="UK",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBCSPORTS.png" tvg-id=" group-title="UK",NBC SPORTS
 http://31.220.0.134:8081/live/nbcsns/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" tvg-id=" group-title="UK",FOX SPORTS 1 USA
@@ -2231,9 +2251,11 @@ http://80.80.160.168/live/6/live.m3u8
 #REF!
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #REF!
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/2730.m3u8
 #REF!
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#REF!
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
 #REF!
 http://31.220.0.134:8081/live/nbcsns/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
