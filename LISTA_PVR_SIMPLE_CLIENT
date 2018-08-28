@@ -150,7 +150,7 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/390.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/387.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" tvg-id="0" group-title="PORTUGAL",SUPER RTL
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27743.m3u8
+http://87.123.115.75:9981/stream/channelid/437474362
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DOGTV.png" tvg-id="0" group-title="PORTUGAL",DOG TV
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/11947.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png" tvg-id="TVIFiccao.pt" group-title="PORTUGAL",TVI FICCAO
@@ -349,8 +349,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist b640000
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/314.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC.png" tvg-id="TCV" group-title="PORTUGAL",TCV
 http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" tvg-id="0" group-title="PORTUGAL",VOX
+http://87.123.115.75:9981/stream/channelid/517023564
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" tvg-id="0" group-title="PORTUGAL",RTL
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/308.m3u8
+http://87.123.115.75:9981/stream/channelid/199270209
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" tvg-id="0" group-title="PORTUGAL",TV GALICIA
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVEi.png" tvg-id="0" group-title="PORTUGAL",TVEi
@@ -813,46 +815,72 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/15209.m3u8
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DASERST.png" tvg-id=" group-title="ALEMANHA",Das Erste
 http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDF.png" tvg-id=" group-title="BRASIL",ZDF
+http://87.123.115.75:9981/stream/channelid/515722395
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDF.png" tvg-id=" group-title="BRASIL",ZDF HD
 http://81.200.50.4/hls/ZDF_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" tvg-id=" group-title="BRASIL",RTL
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/308.m3u8
+http://87.123.115.75:9981/stream/channelid/199270209
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" tvg-id=" group-title="BRASIL",RTL HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27750.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1.png" tvg-id=" group-title="BRASIL",Sat.1
+http://87.123.115.75:9981/stream/channelid/596635458
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1.png" tvg-id=" group-title="BRASIL",Sat.1 HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27741.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBEN.png" tvg-id=" group-title="BRASIL",ProSieben
+http://87.123.115.75:9981/stream/channelid/1845136363
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBEN.png" tvg-id=" group-title="BRASIL",ProSieben HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27735.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINS.png" tvg-id=" group-title="BRASIL",kabel eins
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27730.m3u8
+http://87.123.115.75:9981/stream/channelid/544639029
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINS.png" tvg-id=" group-title="BRASIL",kabel eins HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27731.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL2.png" tvg-id=" group-title="BRASIL",RTL II
+http://87.123.115.75:9981/stream/channelid/72216922
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL2.png" tvg-id=" group-title="BRASIL",RTL II HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27749.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" tvg-id=" group-title="BRASIL",VOX
+http://87.123.115.75:9981/stream/channelid/517023564
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" tvg-id=" group-title="BRASIL",VOX HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27742.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/3SAT.png" tvg-id=" group-title="BRASIL",3SAT
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27759.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/3SAT.png" tvg-id=" group-title="BRASIL",3SAT HD
+http://87.123.115.75:9981/stream/channelid/54896488
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id=" group-title="BRASIL",arte
+http://87.123.115.75:9981/stream/channelid/1904087300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id=" group-title="BRASIL",arte HD
 http://81.200.50.4/hls/ARTE_nejtv_portable_low.m3u8
 #N/D
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27762.m3u8
+http://87.123.115.75:9981/stream/channelid/581177422
+#N/D
+http://87.123.115.75:9981/stream/channelid/1772795804
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ONE.png" tvg-id=" group-title="BRASIL",ONE
+http://87.123.115.75:9981/stream/channelid/1442159253
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ONE.png" tvg-id=" group-title="BRASIL",ONE HD
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27736.m3u8
+http://87.123.115.75:9981/stream/channelid/1451263080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIXX.png" tvg-id=" group-title="BRASIL",sixx
+http://87.123.115.75:9981/stream/channelid/1236918050
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIXX.png" tvg-id=" group-title="BRASIL",sixx HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27732.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" tvg-id=" group-title="BRASIL",DMAX
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27695.m3u8
+http://87.123.115.75:9981/stream/channelid/1627614159
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" tvg-id=" group-title="BRASIL",TELE 5
+http://87.123.115.75:9981/stream/channelid/1822227843
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png" tvg-id=" group-title="BRASIL",TELE 5 HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27587.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SERVUS.png" tvg-id=" group-title="BRASIL",Servus TV Deutschland
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27751.m3u8
+http://87.123.115.75:9981/stream/channelid/1927495532
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENMAXX.png" tvg-id=" group-title="BRASIL",ProSieben MAXX
+http://87.123.115.75:9981/stream/channelid/527705109
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENMAXX.png" tvg-id=" group-title="BRASIL",ProSieben MAXX HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27733.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLNITRO.png" tvg-id=" group-title="BRASIL",NITRO
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27746.m3u8
+http://87.123.115.75:9981/stream/channelid/1439707412
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTLplus_Logo_2016.png" tvg-id=" group-title="BRASIL",RTLplus
+http://87.123.115.75:9981/stream/channelid/331960310
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1GOLD.png" tvg-id=" group-title="BRASIL",Sat.1 Gold
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27740.m3u8
+http://87.123.115.75:9981/stream/channelid/1481480850
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" tvg-id=" group-title="BRASIL",NDR
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27755.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" tvg-id=" group-title="BRASIL",NDR HD
@@ -862,11 +890,17 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BR.png" tvg-id=" group-title="BRASIL",BR
 http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SWR.png" tvg-id=" group-title="BRASIL",SWR HD
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27754.m3u8
+http://87.123.115.75:9981/stream/channelid/2006409008
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HRFERNSEHEN.png" tvg-id=" group-title="BRASIL",hr
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HRFERNSEHEN.png" tvg-id=" group-title="BRASIL",hr HD
+http://87.123.115.75:9981/stream/channelid/2001799165
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MDRFERNSEHEN.png" tvg-id=" group-title="BRASIL",MDR HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27756.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RBB.png" tvg-id=" group-title="BRASIL",rbb
+http://87.123.115.75:9981/stream/channelid/654361148
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RBB.png" tvg-id=" group-title="BRASIL",rbb HD
+http://87.123.115.75:9981/stream/channelid/805470636
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/123.png" tvg-id=" group-title="BRASIL",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/37HMpTD.png" tvg-id=" group-title="BRASIL",ORF eins
@@ -881,14 +915,28 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27632.m3u8
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27665.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vkpJbTK.png" tvg-id=" group-title="BRASIL",SRF Zwei
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27664.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARDALPHA.png" tvg-id=" group-title="BRASIL",ARD-alpha
+http://87.123.115.75:9981/stream/channelid/1435114598
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TAGESSCHAU24.png" tvg-id=" group-title="BRASIL",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDFINFO.png" tvg-id=" group-title="BRASIL",zdfinfo
+http://87.123.115.75:9981/stream/channelid/350782616
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDFINFO.png" tvg-id=" group-title="BRASIL",zdfinfo HD
+http://87.123.115.75:9981/stream/channelid/323686708
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PHOENIX.png" tvg-id=" group-title="BRASIL",Phoenix
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27752.m3u8
+http://87.123.115.75:9981/stream/channelid/2013065805
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PHOENIX.png" tvg-id=" group-title="BRASIL",Phoenix HD
+http://87.123.115.75:9981/stream/channelid/1570171629
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/N24.png" tvg-id=" group-title="BRASIL",N24
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27727.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/N24DOKU.png" tvg-id=" group-title="BRASIL",N24 Doku
+http://87.123.115.75:9981/stream/channelid/1320664354
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NTV.png" tvg-id=" group-title="BRASIL",n-tv
+http://87.123.115.75:9981/stream/channelid/1686516405
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NTV.png" tvg-id=" group-title="BRASIL",n-tv HD
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27728.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINSDOKU.png" tvg-id=" group-title="BRASIL",kabel eins Doku
+http://87.123.115.75:9981/stream/channelid/1082473690
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" tvg-id=" group-title="BRASIL",DW
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id=" group-title="BRASIL",BBC World News
@@ -962,9 +1010,11 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27617.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTDIGITAL.png" tvg-id=" group-title="BRASIL",sportdigital
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27633.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" tvg-id=" group-title="BRASIL",Super RTL
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27743.m3u8
+http://87.123.115.75:9981/stream/channelid/437474362
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KIKA.png" tvg-id=" group-title="BRASIL",KiKa
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27699.m3u8
+http://87.123.115.75:9981/stream/channelid/250116627
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KIKA.png" tvg-id=" group-title="BRASIL",KiKa HD
+http://87.123.115.75:9981/stream/channelid/297298311
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id=" group-title="BRASIL",Disney Channel
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27682.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/35/Toggo2013.png/revision/latest/scale-to-width-down/220?cb=20140116181412" tvg-id=" group-title="BRASIL",Toggo Plus
@@ -1803,6 +1853,8 @@ http://5.81.133.107:9981/stream/channelid/200634280
 http://62.210.93.115:80/live?channelId=19&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" tvg-id=" group-title="UK",E4 +1
 http://62.210.114.105:80/live?channelId=339&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC3.png" tvg-id=" group-title="UK",BBC THREE
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" tvg-id=" group-title="UK",BBC FOUR
 http://5.81.133.107:9981/stream/channelid/727483599
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" tvg-id=" group-title="UK",BBC FOUR HD
@@ -2340,7 +2392,7 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/28118.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="USA",SYFY
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/28134.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTN.png" tvg-id=" group-title="USA",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" group-title="RADIOS",94FM (Copyright © 2018 by TeamBlue)

@@ -192,7 +192,7 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/390.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" group-title="PORTUGAL",JIMJAM (Copyright © 2018 by TeamBlue)
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/387.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="PORTUGAL",SUPER RTL (Copyright © 2018 by TeamBlue)
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27743.m3u8
+http://87.123.115.75:9981/stream/channelid/437474362
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DOGTV.png" group-title="PORTUGAL",DOG TV (Copyright © 2018 by TeamBlue)
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/11947.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png" group-title="PORTUGAL",TVI FICCAO (Copyright © 2018 by TeamBlue)
@@ -407,8 +407,10 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepe
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/314.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC.png" group-title="PORTUGAL",TCV (Copyright © 2018 by TeamBlue)
 http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" group-title="PORTUGAL",VOX (Copyright © 2018 by TeamBlue)
+http://87.123.115.75:9981/stream/channelid/517023564
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" group-title="PORTUGAL",RTL (Copyright © 2018 by TeamBlue)
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/308.m3u8
+http://87.123.115.75:9981/stream/channelid/199270209
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2018 by TeamBlue)
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVEi.png" group-title="PORTUGAL",TVEi (Copyright © 2018 by TeamBlue)
@@ -874,45 +876,71 @@ http://fui.me
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DASERST.png" group-title="ALEMANHA",Das Erste (Copyright © 2018 by TeamBlue)
 http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/index_2692_av-p.m3u8
 #REF!
+http://87.123.115.75:9981/stream/channelid/515722395
+#REF!
 http://81.200.50.4/hls/ZDF_nejtv_portable_low.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/308.m3u8
+http://87.123.115.75:9981/stream/channelid/199270209
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27750.m3u8
 #REF!
+http://87.123.115.75:9981/stream/channelid/596635458
+#REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27741.m3u8
+#REF!
+http://87.123.115.75:9981/stream/channelid/1845136363
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27735.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27730.m3u8
+http://87.123.115.75:9981/stream/channelid/544639029
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27731.m3u8
 #REF!
+http://87.123.115.75:9981/stream/channelid/72216922
+#REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27749.m3u8
+#REF!
+http://87.123.115.75:9981/stream/channelid/517023564
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27742.m3u8
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27759.m3u8
 #REF!
+http://87.123.115.75:9981/stream/channelid/54896488
+#REF!
+http://87.123.115.75:9981/stream/channelid/1904087300
+#REF!
 http://81.200.50.4/hls/ARTE_nejtv_portable_low.m3u8
 #N/D
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27762.m3u8
+http://87.123.115.75:9981/stream/channelid/581177422
+#N/D
+http://87.123.115.75:9981/stream/channelid/1772795804
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27736.m3u8
+http://87.123.115.75:9981/stream/channelid/1442159253
+#REF!
+http://87.123.115.75:9981/stream/channelid/1451263080
+#REF!
+http://87.123.115.75:9981/stream/channelid/1236918050
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27732.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27695.m3u8
+http://87.123.115.75:9981/stream/channelid/1627614159
+#REF!
+http://87.123.115.75:9981/stream/channelid/1822227843
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27587.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27751.m3u8
+http://87.123.115.75:9981/stream/channelid/1927495532
+#REF!
+http://87.123.115.75:9981/stream/channelid/527705109
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27733.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27746.m3u8
+http://87.123.115.75:9981/stream/channelid/1439707412
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27740.m3u8
+http://87.123.115.75:9981/stream/channelid/331960310
+#REF!
+http://87.123.115.75:9981/stream/channelid/1481480850
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27755.m3u8
 #REF!
@@ -922,11 +950,17 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #REF!
 http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27754.m3u8
+http://87.123.115.75:9981/stream/channelid/2006409008
 #REF!
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 #REF!
+http://87.123.115.75:9981/stream/channelid/2001799165
+#REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27756.m3u8
+#REF!
+http://87.123.115.75:9981/stream/channelid/654361148
+#REF!
+http://87.123.115.75:9981/stream/channelid/805470636
 #REF!
 http://123tv.cdn.ses-ps.com/index.m3u8
 #REF!
@@ -942,13 +976,27 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27665.m3u8
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27664.m3u8
 #REF!
+http://87.123.115.75:9981/stream/channelid/1435114598
+#REF!
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27752.m3u8
+http://87.123.115.75:9981/stream/channelid/350782616
+#REF!
+http://87.123.115.75:9981/stream/channelid/323686708
+#REF!
+http://87.123.115.75:9981/stream/channelid/2013065805
+#REF!
+http://87.123.115.75:9981/stream/channelid/1570171629
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27727.m3u8
 #REF!
+http://87.123.115.75:9981/stream/channelid/1320664354
+#REF!
+http://87.123.115.75:9981/stream/channelid/1686516405
+#REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27728.m3u8
+#REF!
+http://87.123.115.75:9981/stream/channelid/1082473690
 #REF!
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #REF!
@@ -1022,9 +1070,11 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27617.m3u8
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27633.m3u8
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27743.m3u8
+http://87.123.115.75:9981/stream/channelid/437474362
 #REF!
-http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27699.m3u8
+http://87.123.115.75:9981/stream/channelid/250116627
+#REF!
+http://87.123.115.75:9981/stream/channelid/297298311
 #REF!
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/27682.m3u8
 #REF!
@@ -1869,6 +1919,8 @@ http://5.81.133.107:9981/stream/channelid/200634280
 http://62.210.93.115:80/live?channelId=19&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" group-title="INGLATERRA",E4 +1 (Copyright © 2018 by TeamBlue)
 http://62.210.114.105:80/live?channelId=339&deviceMac=00:1A:79:3C:C9:5C&uid=3303
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC3.png" group-title="INGLATERRA",BBC THREE (Copyright © 2018 by TeamBlue)
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" group-title="INGLATERRA",BBC FOUR (Copyright © 2018 by TeamBlue)
 http://5.81.133.107:9981/stream/channelid/727483599
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" group-title="INGLATERRA",BBC FOUR HD (Copyright © 2018 by TeamBlue)
@@ -2153,6 +2205,8 @@ http://163.172.105.25:80/live?channelId=370&deviceMac=00:1a:79:3c:c8:cb&uid=6664
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26258.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" group-title="INGLATERRA",ELEVEN SPORTS 2 (Copyright © 2018 by TeamBlue)
 http://163.172.105.25:80/live?channelId=375&deviceMac=00:1a:79:3c:c8:cb&uid=6664
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" group-title="INGLATERRA",ELEVEN SPORTS 2 (Copyright © 2018 by TeamBlue)
+http://31.220.0.134:8081/live/jtvmix2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" group-title="INGLATERRA",ELEVEN SPORTS 2 HD (Copyright © 2018 by TeamBlue)
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/26257.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0pwoujZ.png" group-title="INGLATERRA",SETANTA SPORTS (Copyright © 2018 by TeamBlue)
@@ -2271,6 +2325,8 @@ http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MSNBC.png" group-title="USA",MSNBC (Copyright © 2018 by TeamBlue)
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MSNBC.png" group-title="USA",MSNBC (Copyright © 2018 by TeamBlue)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="USA",BLOOMBERG (Copyright © 2018 by TeamBlue)
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="USA",RT AMERICA (Copyright © 2018 by TeamBlue)
@@ -2418,7 +2474,7 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/28118.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="USA",SYFY (Copyright © 2018 by TeamBlue)
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/28134.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTN.png" group-title="USA",CGTN (Copyright © 2018 by TeamBlue)
-http://live.cgtn.com/1000/prog_index.m3u8
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" group-title="RADIOS",94FM (Copyright © 2018 by TeamBlue)
