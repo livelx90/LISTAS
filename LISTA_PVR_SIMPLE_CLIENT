@@ -1853,8 +1853,6 @@ http://5.81.133.107:9981/stream/channelid/200634280
 http://62.210.93.115:80/live?channelId=19&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" tvg-id=" group-title="UK",E4 +1
 http://62.210.114.105:80/live?channelId=339&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC3.png" tvg-id=" group-title="UK",BBC THREE
-http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/28.ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" tvg-id=" group-title="UK",BBC FOUR
 http://5.81.133.107:9981/stream/channelid/727483599
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" tvg-id=" group-title="UK",BBC FOUR HD
@@ -2392,7 +2390,7 @@ http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/28118.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="USA",SYFY
 http://leaderpro.pt:25461/live/danielsantos/pl3TgXyGPR/28134.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTN.png" tvg-id=" group-title="USA",CGTN
-http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" group-title="RADIOS",94FM (Copyright © 2018 by TeamBlue)
