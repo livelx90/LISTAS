@@ -13,8 +13,10 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist b640000 slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10 11 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+ HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2425.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+
+http://cdntraffice.com:80/live/balmer6m/d39faA672/9499.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" tvg-id="sporttvmais.pt" group-title="PORTUGAL",SPORT TV+ FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/19589.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" tvg-id="PortoCanal.pt" group-title="PORTUGAL",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL
@@ -24,45 +26,109 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist b640000 sl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
 http://77.54.248.94:9981/stream/channelid/2135667
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1238.m3u8
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3221.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/17744.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2
 http://77.54.248.94:9981/stream/channelid/1550043205
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1239.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3222.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
 http://77.54.248.94:9981/stream/channelid/1669467421
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1400.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3223.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
 http://77.54.248.94:9981/stream/channelid/2090972347
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1241.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3224.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
 http://77.54.248.94:9981/stream/channelid/806400516
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1242.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/16297.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4K.png" tvg-id="0" group-title="PORTUGAL",SPORT TV 4K
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2694.m3u8
+http://cdntraffice.com:80/live/balmer6m/d39faA672/18962.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BENFICA TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2478.m3u8
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3308.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BENFICA TV HD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5541.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2477.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" tvg-id="MOTOR" group-title="PORTUGAL",MOTORSPORT.TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1959.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png" tvg-id="MOTORVISION" group-title="PORTUGAL",MOTORVISION TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1145.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/904.m3u8
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3305.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV HD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3246.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT 1 PT
+http://cdntraffice.com:80/live/balmer6m/d39faA672/7851.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT 1 HD PT
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3234.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id="eurosport2.pt" group-title="PORTUGAL",EUROSPORT 2 PT
+http://cdntraffice.com:80/live/balmer6m/d39faA672/9482.m3u8
+#N/D
+http://leaderpro.pt:25461/live/lm/lm/26141.m3u8
+#N/D
+http://cdntraffice.com:80/live/balmer6m/d39faA672/23325.m3u8
+#N/D
+http://leaderpro.pt:25461/live/lm/lm/26142.m3u8
+#N/D
+http://cdntraffice.com:80/live/balmer6m/d39faA672/23320.m3u8
+#N/D
+http://leaderpro.pt:25461/live/lm/lm/26143.m3u8
+#N/D
+http://cdntraffice.com:80/live/balmer6m/d39faA672/23321.m3u8
+#N/D
+http://leaderpro.pt:25461/live/lm/lm/26144.m3u8
+#N/D
+http://cdntraffice.com:80/live/balmer6m/d39faA672/23322.m3u8
+#N/D
+http://leaderpro.pt:25461/live/lm/lm/26145.m3u8
+#N/D
+http://cdntraffice.com:80/live/balmer6m/d39faA672/23323.m3u8
+#N/D
+http://leaderpro.pt:25461/live/lm/lm/26146.m3u8
+#N/D
+http://cdntraffice.com:80/live/balmer6m/d39faA672/23324.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" tvg-id="ABolaTV.pt" group-title="PORTUGAL",A BOLA TV
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5540.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id="disneychannel.pt" group-title="PORTUGAL",DISNEY CHANNEL
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3310.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" tvg-id="disneyjunior.pt" group-title="PORTUGAL",DISNEY JUNIOR
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3258.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" tvg-id="CART" group-title="PORTUGAL",CARTOON NETWORK
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5554.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJR.png" tvg-id="0" group-title="PORTUGAL",NICK JR
+http://cdntraffice.com:80/live/balmer6m/d39faA672/19042.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" tvg-id="nick" group-title="PORTUGAL",NICKELODEON
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3240.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png" tvg-id="canalpanda.pt" group-title="PORTUGAL",PANDA
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3239.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" tvg-id="PandaBiggs.pt" group-title="PORTUGAL",PANDA BIGGS
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5553.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" tvg-id="SICK.pt" group-title="PORTUGAL",SIC K
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3228.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" tvg-id="BABY TV" group-title="PORTUGAL",BABY TV
+http://cdntraffice.com:80/live/balmer6m/d39faA672/9490.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" tvg-id="JJAM" group-title="PORTUGAL",JIMJAM
+http://cdntraffice.com:80/live/balmer6m/d39faA672/9491.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1
+http://cdntraffice.com:80/live/balmer6m/d39faA672/15796.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 HD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5545.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" tvg-id="TVCine1.pt" group-title="PORTUGAL",TVCINE 1 FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/15797.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5546.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 HD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/15798.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" tvg-id="TVCine2.pt" group-title="PORTUGAL",TVCINE 2 FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5547.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3
+http://cdntraffice.com:80/live/balmer6m/d39faA672/15799.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" tvg-id="TVCine3.pt" group-title="PORTUGAL",TVCINE 3 HD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/5548.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png" tvg-id="TVSeries.pt" group-title="PORTUGAL",TVSERIES FHD
+http://cdntraffice.com:80/live/balmer6m/d39faA672/3304.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
 http://serviceonline.live/LIVE_EXE/H03/MTVHITSHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png" tvg-id="0" group-title="PORTUGAL",MTV LIVE HD
 http://serviceonline.live/LIVE_EXE/H03/MTVLIVEHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id="0" group-title="PORTUGAL",MTV MUSIC
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2468.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/902.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6MUSIC.png" tvg-id="0" group-title="PORTUGAL",M6 MUSIQUE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/530.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" tvg-id="0" group-title="PORTUGAL",DJING CLASSIC
 http://www.djing.com/tv/hits.m3u8_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" tvg-id="0" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC
@@ -73,24 +139,14 @@ http://djing.com/tv/04.m3u8
 http://djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" tvg-id="Mezzo" group-title="PORTUGAL",MEZZO
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id="0" group-title="PORTUGAL",MEZZO LIVE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/740.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id="0" group-title="PORTUGAL",MEZZO LIVE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/739.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FTV.png" tvg-id="FASHIONTV" group-title="PORTUGAL",FTV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" tvg-id="TVRecord" group-title="PORTUGAL",TV RECORD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1987.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id="0" group-title="PORTUGAL",CNN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/919.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id="0" group-title="PORTUGAL",FOX NEWS
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id="0" group-title="PORTUGAL",BLOOMBERG
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" tvg-id="0" group-title="PORTUGAL",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id="0" group-title="PORTUGAL",BBC WORLD NEWS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1144.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALJAZEERA.png" tvg-id="0" group-title="PORTUGAL",AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" tvg-id="0" group-title="PORTUGAL",CBSN
@@ -149,10 +205,6 @@ http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
 http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" tvg-id="Cacaavision" group-title="PORTUGAL",CACAVISION
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCSEXTREME.png" tvg-id="0" group-title="PORTUGAL",MCS EXTREME
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1231.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" tvg-id="BarcaTV" group-title="PORTUGAL",BARCA TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/624.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id="RMTV.pt" group-title="PORTUGAL",REAL MADRID TV HD
@@ -161,10 +213,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 http://62.210.214.28:80/live?channelId=162&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" tvg-id="0" group-title="PORTUGAL",CHELSEA TV
 http://62.210.214.28:80/live?channelId=164&amp;deviceMac=00:1A:79:3C:C9:5C&amp;uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" tvg-id="0" group-title="PORTUGAL",NBA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/588.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png" tvg-id="KOMBATSPORT" group-title="PORTUGAL",KOMBAT SPORT
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1115.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="PORTUGAL",REDE TV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" tvg-id="0" group-title="PORTUGAL",SBT
@@ -223,8 +272,6 @@ https://l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189
 http://italians-server.ddns.net:6969/live/D51r3cMi8E/spesce2Renna/13640.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="BRASIL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="BRASIL",CNN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1365.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ALEMANHA.png",ALEMANHA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DASERST.png" tvg-id=" group-title="ALEMANHA",Das Erste
@@ -233,26 +280,16 @@ http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/index_2692_av-p.m3u8
 http://62.74.103.136:9981/stream/channelid/1886003143
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDF.png" tvg-id=" group-title="BRASIL",ZDF HD
 http://81.200.50.4/hls/ZDF_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" tvg-id=" group-title="BRASIL",RTL HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1325.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1.png" tvg-id=" group-title="BRASIL",Sat.1
 http://62.74.103.136:9981/stream/channelid/1781925675
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBEN.png" tvg-id=" group-title="BRASIL",ProSieben
 http://62.74.103.136:9981/stream/channelid/517511114
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" tvg-id=" group-title="BRASIL",VOX
 http://62.74.103.136:9981/stream/channelid/112044398
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VOX.png" tvg-id=" group-title="BRASIL",VOX HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1794.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" tvg-id=" group-title="BRASIL",arte HD
 http://81.200.50.4/hls/ARTE_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIXX.png" tvg-id=" group-title="BRASIL",sixx HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1795.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" tvg-id=" group-title="BRASIL",DMAX
 http://62.74.103.136:9981/stream/channelid/262134368
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENMAXX.png" tvg-id=" group-title="BRASIL",ProSieben MAXX HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1894.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLNITRO.png" tvg-id=" group-title="BRASIL",NITRO
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1393.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" tvg-id=" group-title="BRASIL",NDR
 http://62.74.103.136:9981/stream/channelid/789895384
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" tvg-id=" group-title="BRASIL",NDR HD
@@ -277,50 +314,16 @@ http://orf3.orf.cdn.ors.at/orf3/q6a.sdp/chunklist.m3u8
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" tvg-id=" group-title="BRASIL",DW
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id=" group-title="BRASIL",BBC World News
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1144.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="BRASIL",Bloomberg
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="BRASIL",CNBC
 http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="BRASIL",CNN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1365.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png" tvg-id=" group-title="BRASIL",EuroNews
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="BRASIL",France 24 EN
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="BRASIL",France 24 FR
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" tvg-id=" group-title="BRASIL",Sport1 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2500.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" tvg-id=" group-title="BRASIL",Sport1+ HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1076.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="BRASIL",Eurosport 1 DE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1122.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="BRASIL",Eurosport 2 DE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2449.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id=" group-title="BRASIL",Sky Sport News HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1391.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="BRASIL",Sky Sport 1 DE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/592.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="BRASIL",Sky Sport 2 DE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/593.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="BRASIL",Sky Sport 3 DE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1977.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTAUSTRIA.png" tvg-id=" group-title="BRASIL",Sky Sport Austria HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1120.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 1 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/788.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2453.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 3 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2454.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="BRASIL",SKY SPORT BUNDESLIGA 4 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2455.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTDIGITAL.png" tvg-id=" group-title="BRASIL",sportdigital HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1394.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id=" group-title="BRASIL",Disney Channel
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1092.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" tvg-id=" group-title="BRASIL",Disney Jr.
 http://62.74.103.136:9981/stream/channelid/276850947
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOOMERANG.png" tvg-id=" group-title="BRASIL",Boomerang
@@ -329,24 +332,12 @@ http://62.74.103.136:9981/stream/channelid/1626253814
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DEUTSCHESMUSIKFERNSEHEN.png" tvg-id=" group-title="ALEMANHA",Deutsches Musik Fernsehen
 http://62.74.103.136:9981/stream/channelid/1246548131
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" tvg-id=" group-title="ALEMANHA",MTV Base
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/904.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="ALEMANHA",MTV Hits
 http://serviceonline.live/LIVE_EXE/H03/MTVHITSHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id=" group-title="ALEMANHA",MTV HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1826.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" tvg-id=" group-title="ALEMANHA",MTV Rocks
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/902.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png" tvg-id=" group-title="ALEMANHA",MTV Live HD
 http://serviceonline.live/LIVE_EXE/H03/MTVLIVEHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id=" group-title="ALEMANHA",Mezzo Live
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/740.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id=" group-title="ALEMANHA",Mezzo Live HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/739.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DELUXEMUSIC.png" tvg-id=" group-title="ALEMANHA",Deluxe Music
 http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DELUXEMUSIC.png" tvg-id=" group-title="ALEMANHA",Deluxe Music HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1984.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLIZZ.png" tvg-id=" group-title="ALEMANHA",bliz
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="ALEMANHA",NatGeo
@@ -355,20 +346,10 @@ http://62.74.103.136:9981/stream/channelid/1457063058
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="ALEMANHA",TV5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QQKlYDm.png" tvg-id=" group-title="ALEMANHA",Sky Cinema HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1796.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/2b/Sky_de_cinema_action.png/revision/latest?cb=20170105095524" tvg-id=" group-title="ALEMANHA",Sky Cinema Action
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1797.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png" tvg-id=" group-title="ALEMANHA",Sky Arts HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1978.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYATLANTIC.png" tvg-id=" group-title="ALEMANHA",Sky Atlantic HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1798.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCOMEDY.png" tvg-id=" group-title="ALEMANHA",Sky Cinema Comedy
 http://62.74.103.136:9981/stream/channelid/602428114
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/13THSTREET.png" tvg-id=" group-title="ALEMANHA",13th Street
 http://62.74.103.136:9981/stream/channelid/1283323325
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" tvg-id=" group-title="ALEMANHA",FOX HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1070.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="ALEMANHA",SyFy
 http://62.74.103.136:9981/stream/channelid/459517671
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTSERIE.png" tvg-id=" group-title="ALEMANHA",TNT Serie
@@ -385,286 +366,50 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1ca_lv3_aos
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=650000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" tvg-id=" group-title="ESPANHA",ANTENA 3 HD
 https://livepull1.secure.footprint.net/antena3mpp/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CUATRO.png" tvg-id=" group-title="ESPANHA",CUATRO
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2097.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CUATRO.png" tvg-id=" group-title="ESPANHA",CUATRO HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/412.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png" tvg-id=" group-title="ESPANHA",TELECINCO
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2098.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png" tvg-id=" group-title="ESPANHA",TELECINCO HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/413.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png" tvg-id=" group-title="ESPANHA",LA SEXTA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2099.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png" tvg-id=" group-title="ESPANHA",LA SEXTA HD
 https://livepull1.secure.footprint.net/lasextampp/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png" tvg-id=" group-title="ESPANHA",#0
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2100.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png" tvg-id=" group-title="ESPANHA",#0 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/440.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEMADRID.png" tvg-id=" group-title="ESPANHA",TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LAOTRA.png" tvg-id=" group-title="ESPANHA",LA OTRA
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png" tvg-id=" group-title="ESPANHA",MOVISTAR SERIES
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2107.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png" tvg-id=" group-title="ESPANHA",MOVISTAR SERIES HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/454.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" tvg-id=" group-title="ESPANHA",FOX
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2114.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" tvg-id=" group-title="ESPANHA",FOX HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/455.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" tvg-id=" group-title="ESPANHA",AXN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2110.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" tvg-id=" group-title="ESPANHA",AXN HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/458.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png" tvg-id=" group-title="ESPANHA",TNT
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/732.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTHD.png" tvg-id=" group-title="ESPANHA",TNT HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/461.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" tvg-id=" group-title="ESPANHA",COMEDY CENTRAL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/466.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" tvg-id=" group-title="ESPANHA",COMEDY CENTRAL HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/465.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png" tvg-id=" group-title="ESPANHA",CALLE 13
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2111.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png" tvg-id=" group-title="ESPANHA",CALLE 13 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/631.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png" tvg-id=" group-title="ESPANHA",COSMO
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/711.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png" tvg-id=" group-title="ESPANHA",COSMO HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/467.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png" tvg-id=" group-title="ESPANHA",AMC
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2108.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png" tvg-id=" group-title="ESPANHA",AMC HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/459.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" tvg-id=" group-title="ESPANHA",FOX LIFE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2115.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" tvg-id=" group-title="ESPANHA",FOX LIFE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/469.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" tvg-id=" group-title="ESPANHA",AXN WHITE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2109.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" tvg-id=" group-title="ESPANHA",AXN WHITE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/632.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="ESPANHA",SYFY
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2112.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="ESPANHA",SYFY HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/463.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" tvg-id=" group-title="ESPANHA",FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png" tvg-id=" group-title="ESPANHA",NEOX
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/660.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png" tvg-id=" group-title="ESPANHA",ATRESERIES
 https://livepull1.secure.footprint.net/a3seriesmpp/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png" tvg-id=" group-title="ESPANHA",ATRESERIES HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/615.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png" tvg-id=" group-title="ESPANHA",ENERGY
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png" tvg-id=" group-title="ESPANHA",MOVISTAR ESTRENOS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2101.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png" tvg-id=" group-title="ESPANHA",MOVISTAR ESTRENOS HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/442.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARXTRA.png" tvg-id=" group-title="ESPANHA",MOVISTAR XTRA HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2343.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" tvg-id=" group-title="ESPANHA",MOVISTAR ACCION
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2102.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" tvg-id=" group-title="ESPANHA",MOVISTAR ACCION HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/444.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" tvg-id=" group-title="ESPANHA",MOVISTAR COMEDIA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2104.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" tvg-id=" group-title="ESPANHA",MOVISTAR COMEDIA HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/448.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCINEN.png" tvg-id=" group-title="ESPANHA",MOVISTAR CINE ESPANOL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/452.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png" tvg-id=" group-title="ESPANHA",TCM
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/451.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png" tvg-id=" group-title="ESPANHA",TCM HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/697.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" tvg-id=" group-title="ESPANHA",HOLLYWOOD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2113.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" tvg-id=" group-title="ESPANHA",HOLLYWOOD HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/450.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUNDANCCE.png" tvg-id=" group-title="ESPANHA",SUNDANCE CHANNEL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/737.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUNDANCCE.png" tvg-id=" group-title="ESPANHA",SUNDANCE CHANNEL HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/824.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/04d07dc55c2120bdd42ae9825144b983" tvg-id=" group-title="ESPANHA",DARK
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/823.m3u8
 #EXTINF:-1 tvg-logo="http://cinestrenostv.tv/img/13tv.png" tvg-id=" group-title="ESPANHA",TRECE
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV3.png" tvg-id=" group-title="ESPANHA",TV3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:tv3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/c2d3b962f9db67dc006f2cb799fafeb7" tvg-id=" group-title="ESPANHA",TEN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/717.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" tvg-id=" group-title="ESPANHA",PARAMOUNT CHANNEL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/453.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png" tvg-id=" group-title="ESPANHA",MOVISTAR FUTBOL HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/435.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png" tvg-id=" group-title="ESPANHA",MOVISTAR PARTIDAZO
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/418.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" tvg-id=" group-title="ESPANHA",BEIN SPORTS LALIGA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/416.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" tvg-id=" group-title="ESPANHA",BEIN SPORTS LALIGA HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1611.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGAMAX2.png" tvg-id=" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1063.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png" tvg-id=" group-title="ESPANHA",MOVISTAR DEPORTES 1
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2124.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png" tvg-id=" group-title="ESPANHA",MOVISTAR DEPORTES 2
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2125.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP2.png" tvg-id=" group-title="ESPANHA",MOVISTAR DEPORTES 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2344.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" tvg-id=" group-title="ESPANHA",MOVISTAR FORMULA 1
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/427.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" tvg-id=" group-title="ESPANHA",MOVISTAR FORMULA 1 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/426.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png" tvg-id=" group-title="ESPANHA",MOVISTAR MOTO GP
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/425.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png" tvg-id=" group-title="ESPANHA",MOVISTAR MOTO GP HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/424.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" tvg-id=" group-title="ESPANHA",MOVISTAR GOLF
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/699.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" tvg-id=" group-title="ESPANHA",MOVISTAR GOLF HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/698.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png" tvg-id=" group-title="ESPANHA",GOL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/665.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png" tvg-id=" group-title="ESPANHA",GOL HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/883.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGA123.png" tvg-id=" group-title="ESPANHA",LALIGA 123
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1213.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png" tvg-id=" group-title="ESPANHA",LALIGA TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2121.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png" tvg-id=" group-title="ESPANHA",LALIGA TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2121.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id=" group-title="ESPANHA",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" tvg-id=" group-title="ESPANHA",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" tvg-id=" group-title="ESPANHA",BARCA TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/624.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="ESPANHA",EUROSPORT 1 ES
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2126.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="ESPANHA",EUROSPORT 1 HD ES
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/428.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="ESPANHA",EUROSPORT 2 ES
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/430.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="ESPANHA",EUROSPORT 2 HD ES
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/830.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEDEPORTE.png" tvg-id=" group-title="ESPANHA",TELEDEPORTE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2127.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEDEPORTE.png" tvg-id=" group-title="ESPANHA",TELEDEPORTE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/499.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CAZAYPESCA.png" tvg-id=" group-title="ESPANHA",CAZA Y PESCA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/710.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CAZAYPESCA.png" tvg-id=" group-title="ESPANHA",CAZA Y PESCA HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/484.m3u8
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" tvg-id=" group-title="ESPANHA",IBERALIA
 https://input2.fractalmedia.es/hls/iberaliatv.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" tvg-id=" group-title="ESPANHA",IBERALIA HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1148.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png" tvg-id=" group-title="ESPANHA",TOROS TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2130.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png" tvg-id=" group-title="ESPANHA",TOROS TV HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/438.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESPORTS.png" tvg-id=" group-title="ESPANHA",MOVISTAR ESPORTS
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#N/D
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1169.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b" tvg-id=" group-title="ESPANHA",MULTIDEPORTE 1
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/769.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031" tvg-id=" group-title="ESPANHA",MULTIDEPORTE 2
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/770.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb" tvg-id=" group-title="ESPANHA",MULTIDEPORTE 3
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/771.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/4670877170a7fb61e0e9ab0b61f389e6" tvg-id=" group-title="ESPANHA",MULTIDEPORTE 4
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/772.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/9f0f556e31a3e545cc342deff05a038c" tvg-id=" group-title="ESPANHA",MULTIDEPORTE 5
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/773.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/1bcb34978a93a6722fe65b4d2fb3f529" tvg-id=" group-title="ESPANHA",MULTIFUTBOL 1
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/764.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/a93e34b3aaeca25434cfe25c0a31aae2" tvg-id=" group-title="ESPANHA",MULTIFUTBOL 2
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/765.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/3cb3bdeb0528f7a479f9b0665bb8c1f8" tvg-id=" group-title="ESPANHA",MULTIFUTBOL 3
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/766.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/37a7a49ae2bb4c00617bbca00992ad70" tvg-id=" group-title="ESPANHA",MULTIFUTBOL 4
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/767.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="ESPANHA",NATIONAL GEOGRAPHIC
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2132.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="ESPANHA",NATIONAL GEOGRAPHIC HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/477.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" tvg-id=" group-title="ESPANHA",NATGEO WILD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/479.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png" tvg-id=" group-title="ESPANHA",HISTORIA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2133.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" tvg-id=" group-title="ESPANHA",DISCOVERY
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2134.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" tvg-id=" group-title="ESPANHA",DISCOVERY HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/829.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png" tvg-id=" group-title="ESPANHA",ODISEA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2138.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAJAR.png" tvg-id=" group-title="ESPANHA",VIAJAR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/709.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAJAR.png" tvg-id=" group-title="ESPANHA",VIAJAR HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/487.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png" tvg-id=" group-title="ESPANHA",CRIMEN & INVESTIGATION
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/483.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALCOCINA.png" tvg-id=" group-title="ESPANHA",CANAL COCINA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2135.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DECASA.png" tvg-id=" group-title="ESPANHA",DECASA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1174.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DKISS.png" tvg-id=" group-title="ESPANHA",DKISS
 http://185.187.69.99:9981/stream/channelid/2094326707
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png" tvg-id=" group-title="ESPANHA",DIVINITY
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png" tvg-id=" group-title="ESPANHA",NOVA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/633.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGA.png" tvg-id=" group-title="ESPANHA",MEGA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/504.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png" tvg-id=" group-title="ESPANHA",BE MAD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" tvg-id=" group-title="ESPANHA",EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALORBE21.png" tvg-id=" group-title="ESPANHA",CANAL ORBE 21
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/738.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" tvg-id=" group-title="ESPANHA",BABY TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/476.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" tvg-id=" group-title="ESPANHA",DISNEY JUNIOR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2866.m3u8
-#N/D
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/475.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJR.png" tvg-id=" group-title="ESPANHA",NICK JR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/816.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" tvg-id=" group-title="ESPANHA",NICKELODEON
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/470.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png" tvg-id=" group-title="ESPANHA",DISNEY XD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2865.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id=" group-title="ESPANHA",DISNEY CHANNEL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/472.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png" tvg-id=" group-title="ESPANHA",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CLAN.png" tvg-id=" group-title="ESPANHA",CLAN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2156.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id=" group-title="ESPANHA",MTV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/491.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" tvg-id=" group-title="ESPANHA",MEZZO
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/UNITELCLASSICA.png" tvg-id=" group-title="ESPANHA",UNITEL CLASSICA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1155.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" tvg-id=" group-title="ESPANHA",TVE 24H
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" tvg-id=" group-title="ESPANHA",TV GALICIA
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id=" group-title="ESPANHA",BBC WORLD NEWS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1144.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="ESPANHA",CNN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1365.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id=" group-title="ESPANHA",FOX NEWS
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="ESPANHA",FRANCE 24 EN
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-id=" group-title="ESPANHA",RUSSIA TODAY ESPAÑOL
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-id=" group-title="ESPANHA",RUSSIA TODAY ESPAÑOL HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1450.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="ESPANHA",CNBC
 http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="ESPANHA",TV5 MONDE
@@ -683,82 +428,38 @@ http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_defins
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" tvg-id=" group-title="FRANÇA",TF1
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/242.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" tvg-id=" group-title="FRANÇA",TF1 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1014.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" tvg-id=" group-title="FRANÇA",FRANCE 2
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/227.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" tvg-id=" group-title="FRANÇA",FRANCE 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1224.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE3.png" tvg-id=" group-title="FRANÇA",FRANCE 3 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1225.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" tvg-id=" group-title="FRANÇA",CANAL+
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/206.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" tvg-id=" group-title="FRANÇA",CANAL+ HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1421.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE5.png" tvg-id=" group-title="FRANÇA",FRANCE 5 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1326.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id=" group-title="FRANÇA",M6
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/230.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id=" group-title="FRANÇA",M6 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1946.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nt1_fr.png" tvg-id=" group-title="FRANÇA",NT1 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1976.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJ12.png" tvg-id=" group-title="FRANÇA",NRJ12 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1694.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE4.png" tvg-id=" group-title="FRANÇA",FRANCE 4 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1226.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCEO.png" tvg-id=" group-title="FRANÇA",FRANCE Ô
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1402.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HD1.png" tvg-id=" group-title="FRANÇA",HD1
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1013.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LEQUIPE.png" tvg-id=" group-title="FRANÇA",L'EQUIPE 21
 http://ec.playmedia.fr/lequipe21/live/chunklist_w811887822.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL9.png" tvg-id=" group-title="FRANÇA",RTL9
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/241.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL9.png" tvg-id=" group-title="FRANÇA",RTL9 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2150.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 1 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/848.m3u8
+http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/139.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/849.m3u8
+http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/140.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS3.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 3 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/850.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS4MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 4 FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2661.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS5MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 5 FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2662.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS6MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 6 FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2663.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS7MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 7 FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2664.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS8MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 8 FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2665.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS9MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 9 FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2666.m3u8
+http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/239.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT1.png" tvg-id=" group-title="FRANÇA",SFR SPORT 1 HD
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/234.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT2.png" tvg-id=" group-title="FRANÇA",SFR SPORT 2 HD
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/235.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT3.png" tvg-id=" group-title="FRANÇA",SFR SPORT 3 HD
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/236.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT5.png" tvg-id=" group-title="FRANÇA",SFR SPORT 5
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2486.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="FRANÇA",EUROSPORT 1 HD FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1945.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="FRANÇA",EUROSPORT 2 HD FR
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1944.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+CINEMA.png" tvg-id=" group-title="FRANÇA",CANAL+ CINEMA
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/219.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SPORT.png" tvg-id=" group-title="FRANÇA",CANAL+ SPORT
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/225.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SPORT.png" tvg-id=" group-title="FRANÇA",CANAL+ SPORT HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/866.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+FAMILY.png" tvg-id=" group-title="FRANÇA",CANAL+ FAMILY
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/221.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+DECALE.png" tvg-id=" group-title="FRANÇA",CANAL+ DECALE
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/220.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_premier.png" tvg-id=" group-title="FRANÇA",CINE+ PREMIER
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1327.m3u8
+http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/218.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OCSMAX.png" tvg-id=" group-title="FRANÇA",OCS MAX
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/207.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OCSCITY.png" tvg-id=" group-title="FRANÇA",OCS CITY
@@ -769,16 +470,12 @@ http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/210.m3u8
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/208.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" tvg-id=" group-title="FRANÇA",NAT GEO WILD
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/231.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6MUSIC.png" tvg-id=" group-title="FRANÇA",M6 MUSIQUE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/530.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="FRANÇA",MTV HITS
 http://serviceonline.live/LIVE_EXE/H03/MTVHITSHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="FRANÇA",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/SERIE_CLUB_2013.png/revision/latest?cb=20150314142323" tvg-id=" group-title="FRANÇA",SERIE CLUB
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/233.m3u8
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/SERIE_CLUB_2013.png/revision/latest?cb=20150314142323" tvg-id=" group-title="FRANÇA",SERIE CLUB HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1054.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" tvg-id=" group-title="FRANÇA",GONG
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_emotion.png" tvg-id=" group-title="FRANÇA",CINE+ EMOTION
@@ -795,18 +492,8 @@ http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/217.m3u8
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/216.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_bAyCgweAJs/WUxEs-UJe3I/AAAAAAAAHEE/LyMpsR8MX4EZQzZCTw8tZEpdX-k8JndfwCLcBGAs/s1600/canalplus_fr_infosport_plus.png" tvg-id=" group-title="FRANÇA",INFO SPORT+
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/229.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABMOTEURS.png" tvg-id=" group-title="FRANÇA",AB MOTEURS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/791.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EQUIDIALIVE.png" tvg-id=" group-title="FRANÇA",EQUIDIA LIVE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/885.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EQUIDIALIFE.png" tvg-id=" group-title="FRANÇA",EQUIDIA LIFE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/892.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" tvg-id=" group-title="FRANÇA",MOTORSPORT.TV
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2475.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_PLANETECI" tvg-id=" group-title="FRANÇA",PLANETE+ CI
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/232.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/USHUAIA.png" tvg-id=" group-title="FRANÇA",USHUAIA TV HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1053.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMAUX.png" tvg-id=" group-title="FRANÇA",ANIMAUX HD
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/223.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJHITS.png" tvg-id=" group-title="FRANÇA",NRJ HITS
@@ -815,10 +502,6 @@ http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" tvg-id=" group-title="FRANÇA",MEZZO
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id=" group-title="FRANÇA",MEZZO LIVE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/740.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZOLIVE.png" tvg-id=" group-title="FRANÇA",MEZZO LIVE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/739.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCMTOP.png" tvg-id=" group-title="FRANÇA",MCM TOP
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="FRANÇA",FRANCE 24 FR
@@ -827,12 +510,8 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMBUSINESS.png" tvg-id=" group-title="FRANÇA",BFM BUSINESS
 http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id=" group-title="FRANÇA",BBC WORLD NEWS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1144.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" tvg-id=" group-title="FRANÇA",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="FRANÇA",CNN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1365.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id=" group-title="FRANÇA",FOX NEWS
 http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="FRANÇA",BLOOMBERG
@@ -907,10 +586,6 @@ http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 http://senato.spectar.tv:1935/senato-live/webtv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="ITALIA",MTV HITS
 http://serviceonline.live/LIVE_EXE/H03/MTVHITSHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" tvg-id=" group-title="ITALIA",MTV ROCKS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/902.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" tvg-id=" group-title="ITALIA",MTV BASE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/904.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png" tvg-id=" group-title="ITALIA",RAI MOVIE
 http://italians-server.ddns.net:6969/live/D51r3cMi8E/spesce2Renna/111.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png" tvg-id=" group-title="ITALIA",RAI MOVIE HD
@@ -918,25 +593,18 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CIELO.png" tvg-id=" group-title="ITALIA",CIELO
 http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="ITALIA",SKY SPORT 2 IT HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/858.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERTENNIS.png" tvg-id=" group-title="ITALIA",SUPER TENNIS
 http://italians-server.ddns.net:6969/live/D51r3cMi8E/spesce2Renna/1550.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="ITALIA",EUROSPORT 1 HD IT
 http://italians-server.ddns.net:6969/live/D51r3cMi8E/spesce2Renna/1551.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="ITALIA",EUROSPORT 2 HD IT
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2446.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG/revision/latest?cb=20161118191326" tvg-id=" group-title="ITALIA",SPORTITALIA
 https://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-IT_e-885278_i-1866979820180627132246_k-_q-_t-hds/sportitalia247_1@5383/index_2000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" tvg-id=" group-title="ITALIA",RAI SPORT 1 HD
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1229.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1401.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Sky_Supercalcio_2010.png/revision/latest?cb=20150524203909" tvg-id=" group-title="ITALIA",SKY SUPERCALCIO HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/777.m3u8
 #EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" tvg-id=" group-title="ITALIA",RETE 8 SPORT
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/961.m3u8
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" tvg-id=" group-title="ITALIA",HISTORY LAB
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" tvg-id=" group-title="ITALIA",DMAX
@@ -971,10 +639,6 @@ http://62.210.93.115:80/live?channelId=11&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://62.210.93.115:80/live?channelId=19&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" tvg-id=" group-title="UK",E4 +1
 http://62.210.114.105:80/live?channelId=339&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC3.png" tvg-id=" group-title="UK",BBC THREE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/955.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" tvg-id=" group-title="UK",BBC FOUR HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1691.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYONE.png" tvg-id=" group-title="UK",SKY ONE
 http://62.210.93.115:80/live?channelId=26&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYONE.png" tvg-id=" group-title="UK",SKY ONE HD
@@ -985,22 +649,14 @@ http://62.210.93.115:80/live?channelId=28&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/164.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" tvg-id=" group-title="UK",ITV 2
 http://62.210.93.115:80/live?channelId=14&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" tvg-id=" group-title="UK",ITV 2 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/941.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" tvg-id=" group-title="UK",ITV 3
 http://62.210.93.115:80/live?channelId=15&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" tvg-id=" group-title="UK",ITV 3 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/940.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3+1.png" tvg-id=" group-title="UK",ITV 3 +1
 http://62.210.114.105:80/live?channelId=335&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" tvg-id=" group-title="UK",ITV 4
 http://62.210.93.115:80/live?channelId=16&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" tvg-id=" group-title="UK",ITV 4 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/939.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4+1.png" tvg-id=" group-title="UK",ITV 4 +1
 http://62.210.114.105:80/live?channelId=336&amp;deviceMac=00:1A:79:3C:C9:5C&amp;uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE.png" tvg-id=" group-title="UK",ITVBe HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/926.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE+1.png" tvg-id=" group-title="UK",ITVBe +1
 http://62.210.114.105:80/live?channelId=337&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5d/Sky_2_logo_2016.png/revision/latest?cb=20160626181053" tvg-id=" group-title="UK",SKY TWO
@@ -1015,8 +671,6 @@ http://62.210.93.115:80/live?channelId=64&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://62.210.93.115:80/live?channelId=59&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAVE.png" tvg-id=" group-title="UK",DAVE
 http://62.210.93.115:80/live?channelId=51&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAVE.png" tvg-id=" group-title="UK",DAVE HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/943.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" tvg-id=" group-title="UK",REALLY
 http://62.210.93.115:80/live?channelId=65&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" tvg-id=" group-title="UK",COMEDY CENTRAL
@@ -1033,14 +687,8 @@ http://62.210.93.115:80/live?channelId=68&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://62.210.93.115:80/live?channelId=18&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MORE4.png" tvg-id=" group-title="UK",More4
 http://62.210.93.115:80/live?channelId=20&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MORE4.png" tvg-id=" group-title="UK",More4 HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/938.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MORE4.png" tvg-id=" group-title="UK",More4 +1
 http://62.210.114.105:80/live?channelId=340&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d6/Horrorchannel.svg/revision/latest/scale-to-width-down/300?cb=20141218120714" tvg-id=" group-title="UK",HORROR CHANNEL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/927.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/5USA.png" tvg-id=" group-title="UK",5 USA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/920.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" tvg-id=" group-title="UK",E!
 http://62.210.93.115:80/live?channelId=61&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" tvg-id=" group-title="UK",FOX
@@ -1099,22 +747,10 @@ http://62.210.93.115:80/live?channelId=57&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://62.210.93.115:80/live?channelId=36&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id=" group-title="UK",FOOD NETWORK
 http://62.210.93.115:80/live?channelId=58&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png" tvg-id=" group-title="UK",FINE LIVING
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/925.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id=" group-title="UK",MTV MUSIC
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2468.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png" tvg-id=" group-title="UK",MTV LIVE HD
 http://serviceonline.live/LIVE_EXE/H03/MTVLIVEHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="UK",MTV HITS
 http://serviceonline.live/LIVE_EXE/H03/MTVHITSHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" tvg-id=" group-title="UK",MTV BASE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/904.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" tvg-id=" group-title="UK",MTV ROCKS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/902.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SONYMOVIECHANNEL.png" tvg-id=" group-title="UK",SONY MOVIE CHANNEL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/906.m3u8
-#EXTINF:-1 tvg-logo="https://geekboy95.files.wordpress.com/2014/01/film4-logo.jpg" tvg-id=" group-title="UK",FILM4
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/929.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Sky_Cinema_Premiere.png/revision/latest?cb=20160708223437" tvg-id=" group-title="UK",SKY CINEMA PREMIERE
 http://62.210.93.43:80/live?channelId=86&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Sky_Cinema_Premiere_HD.png/revision/latest?cb=20160709183308" tvg-id=" group-title="UK",SKY CINEMA PREMIERE HD
@@ -1191,12 +827,8 @@ http://62.210.99.158:80/live?channelId=131&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://62.210.99.158:80/live?channelId=132&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="UK",EUROSPORT 1 UK
 http://62.210.214.28:80/live?channelId=156&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="UK",EUROSPORT 1 HD UK
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2447.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="UK",EUROSPORT 2 UK
 http://62.210.214.28:80/live?channelId=157&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="UK",EUROSPORT 2 HD UK
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2448.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" tvg-id=" group-title="UK",MUTV
 http://62.210.214.28:80/live?channelId=162&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" tvg-id=" group-title="UK",BT SPORT 1
@@ -1227,8 +859,6 @@ http://62.210.214.28:80/live?channelId=151&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 http://62.210.214.28:80/live?channelId=152&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX6.png" tvg-id=" group-title="UK",BT SPORT EXTRA 6
 http://62.210.214.28:80/live?channelId=153&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ATTHERACES.png" tvg-id=" group-title="UK",AT THE RACES
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1630.m3u8
 #EXTINF:-1 tvg-logo="https://www.mulliganssportsbar.co.uk/wp-content/uploads/2017/05/RacingUK-01.png" tvg-id=" group-title="UK",RACING UK
 http://62.210.214.28:80/live?channelId=172&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" tvg-id=" group-title="UK",CHELSEA TV
@@ -1245,8 +875,6 @@ http://163.172.15.141:9732/live?channelId=257&deviceMac=00:1A:79:3C:C9:5C&uid=33
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" tvg-id=" group-title="UK",SKY NEWS HD
 http://IPTV.madridista3arab.ml:25461/live/Star7Arab/vEGzWICXzP/166.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="UK",CNN
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1365.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="UK",BLOOMBERG
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="UK",CNBC
@@ -1325,46 +953,18 @@ http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN3.png" tvg-id=" group-title="USA",C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" tvg-id=" group-title="USA",E! ENTERTAINMENT
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2511.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" tvg-id=" group-title="USA",ANIMAL PLANET HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1078.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="UK",WWE NETWORK
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/586.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id=" group-title="UK",FOOD NETWORK
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1892.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id=" group-title="UK",MTV HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2479.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" tvg-id=" group-title="UK",BYU TV
 http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="UK",ESPN USA
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="UK",ESPN USA HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1220.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="UK",ESPN 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#N/D
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1221.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id=" group-title="UK",ELEVEN SPORTS 1
-http://shacktv.com:8080/live/video/video/221.ts
-#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" tvg-id=" group-title="UK",NFL NETWORK
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1885.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg/revision/latest?cb=20150803005255" tvg-id=" group-title="UK",NFL NOW
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" tvg-id=" group-title="UK",NBA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/588.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" tvg-id=" group-title="UK",MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/NHL_Logo_former.svg/996px-NHL_Logo_former.svg.png" tvg-id=" group-title="UK",NHL
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1802.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" tvg-id=" group-title="UK",FOX SPORTS 1 USA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/876.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS2.png" tvg-id=" group-title="UK",FOX SPORTS 2 USA
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/877.m3u8
 #EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="UK",PAC 12 Oregon
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSUSA.png" tvg-id=" group-title="UK",BEIN SPORTS US
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1305.m3u8
 #EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Network (National)
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 #EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Arizona
@@ -1379,30 +979,6 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" tvg-id=" group-title="USA",PAC 12 Los Angeles
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AFNSPORTS1.png" tvg-id=" group-title="USA",AFN SPORTS
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1890.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AFNSPORTS2.png" tvg-id=" group-title="USA",AFN SPORTS 2
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1313.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/67/230px-SN_360_logo.svg.png/revision/latest/scale-to-width-down/200?cb=20140805003412" tvg-id=" group-title="USA",SPORTSNET 360
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1949.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/fd/Sportsnet_ontario.png/revision/latest/scale-to-width-down/250?cb=20120212021015" tvg-id=" group-title="USA",SPORTSNET ONTARIO
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1950.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204" tvg-id=" group-title="USA",SPORTSNET WORLD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1947.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png" tvg-id=" group-title="USA",TSN1
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1246.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png" tvg-id=" group-title="USA",TSN2
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1247.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png" tvg-id=" group-title="USA",TSN3
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1248.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png" tvg-id=" group-title="USA",TSN4
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1249.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png" tvg-id=" group-title="USA",TSN5
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1250.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBOZONE.png" tvg-id=" group-title="USA",HBO ZONE
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/783.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SHOWTIME.png" tvg-id=" group-title="USA",SHOWTIME HD
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1321.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTN.png" tvg-id=" group-title="USA",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
@@ -1485,35 +1061,15 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #REF!
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 #REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2511.m3u8
-#REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1078.m3u8
-#REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/586.m3u8
-#REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1892.m3u8
-#REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/2479.m3u8
-#REF!
 http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #REF!
 http://80.80.160.168/live/6/live.m3u8
 #REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1220.m3u8
-#REF!
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#N/D
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1221.m3u8
-#REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1885.m3u8
 #REF!
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/588.m3u8
-#REF!
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#REF!
-http://telexin.digitalabs.eu:8000/live/Alexuco88/fYTqwrk54jvjkbn/1802.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" group-title="RADIOS",94FM (Copyright © 2018 by TeamBlue)
