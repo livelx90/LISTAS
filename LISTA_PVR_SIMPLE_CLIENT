@@ -561,7 +561,7 @@ http://81.200.50.4/hls/ARTE_nejtv_portable_low.m3u8
 http://medias.bossna-caffe.com:80/live?channelId=1188&deviceMac=00:1A:79:45:A4:85&uid=13780
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png" tvg-id=" group-title="ALEMANHA",NDR HD
 http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WDR.png" tvg-id=" group-title="ALEMANHA",WDR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WDR.png" tvg-id=" group-title="ALEMANHA",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BR.png" tvg-id=" group-title="ALEMANHA",BR
 http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
@@ -1030,9 +1030,7 @@ https://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-IT_e-885278_i-1866
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" tvg-id=" group-title="ITALIA",RAI SPORT 1 HD
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17062.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT 2 HD
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17061.m3u8
 #EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" tvg-id=" group-title="ITALIA",RETE 8 SPORT
  
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" tvg-id=" group-title="ITALIA",HISTORY LAB
