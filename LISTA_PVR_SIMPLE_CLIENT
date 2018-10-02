@@ -63,6 +63,12 @@ http://37.59.34.182:8000/live/iptvfree/iptvfree/1022.m3u8
 http://37.59.34.182:8000/live/iptvfree/iptvfree/1023.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTNEWS.png" tvg-id="0" group-title="PORTUGAL",EUROSPORT NEWS
 http://37.59.34.182:8000/live/iptvfree/iptvfree/1024.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id="0" group-title="PORTUGAL",ELEVEN SPORTS 1
+http://89.34.237.218:8000/live/casa/1/4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" tvg-id="0" group-title="PORTUGAL",ELEVEN SPORTS 2
+http://89.34.237.218:8000/live/casa/1/5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" tvg-id="0" group-title="PORTUGAL",ELEVEN SPORTS 3
+http://89.34.237.218:8000/live/casa/1/6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png" tvg-id="MOTORVISION" group-title="PORTUGAL",MOTORVISION TV
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/190.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png" tvg-id="FuelTV" group-title="PORTUGAL",FUEL TV
@@ -145,8 +151,6 @@ http://37.59.34.182:8000/live/iptvfree/iptvfree/1035.m3u8
 http://37.59.34.182:8000/live/iptvfree/iptvfree/1036.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
 http://persik.by/stream/6431/299492/10227.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6MUSIC.png" tvg-id="0" group-title="PORTUGAL",M6 MUSIQUE
-http://medias.bossna-caffe.com:80/live?channelId=1410&deviceMac=00:1A:79:45:A4:85&uid=13780
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" tvg-id="0" group-title="PORTUGAL",DJING CLASSIC
 http://www.djing.com/tv/hits.m3u8_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" tvg-id="0" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC
@@ -245,8 +249,6 @@ http://medias.bossna-caffe.com:80/live?channelId=181&deviceMac=00:1A:79:45:A4:85
 http://cms3.fastiptv.org:80/live?channelId=95&uid=123&deviceMac=00:1a:79:39:92:3c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" tvg-id="0" group-title="PORTUGAL",TV GALICIA
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id="0" group-title="PORTUGAL",M6
-http://medias.bossna-caffe.com:80/live?channelId=1409&deviceMac=00:1A:79:45:A4:85&uid=13780
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id="0" group-title="PORTUGAL",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id="0" group-title="PORTUGAL",RAI 1
@@ -517,104 +519,44 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TF1.png" tvg-id=" group-title="FRANÇA",TF1
-http://medias.bossna-caffe.com:80/live?channelId=1387&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE2.png" tvg-id=" group-title="FRANÇA",FRANCE 2
-http://medias.bossna-caffe.com:80/live?channelId=1374&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE3.png" tvg-id=" group-title="FRANÇA",FRANCE 3
-http://medias.bossna-caffe.com:80/live?channelId=1376&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+.png" tvg-id=" group-title="FRANÇA",CANAL+
-http://medias.bossna-caffe.com:80/live?channelId=1354&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE5.png" tvg-id=" group-title="FRANÇA",FRANCE 5
-http://medias.bossna-caffe.com:80/live?channelId=1378&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6.png" tvg-id=" group-title="FRANÇA",M6
-http://medias.bossna-caffe.com:80/live?channelId=1409&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TMC.png" tvg-id=" group-title="FRANÇA",TMC
-http://medias.bossna-caffe.com:80/live?channelId=1388&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE4.png" tvg-id=" group-title="FRANÇA",FRANCE 4
-http://medias.bossna-caffe.com:80/live?channelId=1377&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCEO.png" tvg-id=" group-title="FRANÇA",FRANCE Ô
-http://medias.bossna-caffe.com:80/live?channelId=1379&deviceMac=00:1A:79:45:A4:85&uid=13780
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LEQUIPE.png" tvg-id=" group-title="FRANÇA",L'EQUIPE 21
 http://ec.playmedia.fr/lequipe21/live/chunklist_w811887822.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 1
 http://163.172.105.25:80/live?channelId=175&deviceMac=00:1A:79:3C:CA:45&uid=6511
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 1 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/761.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 2
 http://163.172.105.25:80/live?channelId=176&deviceMac=00:1A:79:3C:CA:45&uid=6511
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 2 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/762.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS3.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 3
 http://163.172.105.25:80/live?channelId=177&deviceMac=00:1A:79:3C:CA:45&uid=6511
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS3.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 3 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/763.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS4MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 4 FR
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1099.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS5MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 5 FR
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1100.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS6MAX.png" tvg-id=" group-title="FRANÇA",beiN SPORTS MAX 6 FR
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1101.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT1.png" tvg-id=" group-title="FRANÇA",SFR SPORT 1
-http://medias.bossna-caffe.com:80/live?channelId=1411&deviceMac=00:1A:79:45:A4:85&uid=13780
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1094.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT2.png" tvg-id=" group-title="FRANÇA",SFR SPORT 2
-http://medias.bossna-caffe.com:80/live?channelId=1412&deviceMac=00:1A:79:45:A4:85&uid=13780
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1095.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT3.png" tvg-id=" group-title="FRANÇA",SFR SPORT 3
-http://medias.bossna-caffe.com:80/live?channelId=1413&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SFRSPORT5.png" tvg-id=" group-title="FRANÇA",SFR SPORT 5
-http://medias.bossna-caffe.com:80/live?channelId=1415&deviceMac=00:1A:79:45:A4:85&uid=13780
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1096.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id=" group-title="FRANÇA",ELEVEN SPORTS 1
 http://163.172.105.25:80/live?channelId=367&deviceMac=00:1A:79:3C:C9:5C&uid=3303
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" tvg-id=" group-title="FRANÇA",ELEVEN SPORTS 2
 http://163.172.105.25:80/live?channelId=372&deviceMac=00:1A:79:3C:C9:5C&uid=3303 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AB1.png" tvg-id=" group-title="FRANÇA",AB 1
-http://medias.bossna-caffe.com:80/live?channelId=1351&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+CINEMA.png" tvg-id=" group-title="FRANÇA",CANAL+ CINEMA
-http://medias.bossna-caffe.com:80/live?channelId=947&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SPORT.png" tvg-id=" group-title="FRANÇA",CANAL+ SPORT
-http://medias.bossna-caffe.com:80/live?channelId=946&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SERIES.png" tvg-id=" group-title="FRANÇA",CANAL+ SERIES
-http://medias.bossna-caffe.com:80/live?channelId=1358&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+FAMILY.png" tvg-id=" group-title="FRANÇA",CANAL+ FAMILY
-http://medias.bossna-caffe.com:80/live?channelId=1357&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+DECALE.png" tvg-id=" group-title="FRANÇA",CANAL+ DECALE
-http://medias.bossna-caffe.com:80/live?channelId=1203&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" tvg-id=" group-title="FRANÇA",DISNEY CHANNEL
-http://medias.bossna-caffe.com:80/live?channelId=1371&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCINEMAGIC.png" tvg-id=" group-title="FRANÇA",DISNEY CINEMA
-http://medias.bossna-caffe.com:80/live?channelId=1372&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_premier.png" tvg-id=" group-title="FRANÇA",CINE+ PREMIER
-http://medias.bossna-caffe.com:80/live?channelId=1368&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OCSMAX.png" tvg-id=" group-title="FRANÇA",OCS MAX
-http://medias.bossna-caffe.com:80/live?channelId=1386&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OCSCITY.png" tvg-id=" group-title="FRANÇA",OCS CITY
-http://medias.bossna-caffe.com:80/live?channelId=1384&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OCSCHOC.png" tvg-id=" group-title="FRANÇA",OCS CHOC
-http://medias.bossna-caffe.com:80/live?channelId=1383&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/ocs_geants.png" tvg-id=" group-title="FRANÇA",OCS GEANTS
-http://medias.bossna-caffe.com:80/live?channelId=1385&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="FRANÇA",NAT GEO CH
-http://medias.bossna-caffe.com:80/live?channelId=1382&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" tvg-id=" group-title="FRANÇA",NAT GEO WILD
-http://medias.bossna-caffe.com:80/live?channelId=1381&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6MUSIC.png" tvg-id=" group-title="FRANÇA",M6 MUSIQUE
-http://medias.bossna-caffe.com:80/live?channelId=1410&deviceMac=00:1A:79:45:A4:85&uid=13780
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="FRANÇA",TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" tvg-id=" group-title="FRANÇA",GONG
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINE+FRISSON.png" tvg-id=" group-title="FRANÇA",CINE+ FRISSON
-http://medias.bossna-caffe.com:80/live?channelId=1365&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cine_plus_emotion.png" tvg-id=" group-title="FRANÇA",CINE+ EMOTION
-http://medias.bossna-caffe.com:80/live?channelId=1363&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINE+FAMIZ.png" tvg-id=" group-title="FRANÇA",CINE+ FAMIZ
-http://medias.bossna-caffe.com:80/live?channelId=1364&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINE+CLUB.png" tvg-id=" group-title="FRANÇA",CINE+ CLUB
-http://medias.bossna-caffe.com:80/live?channelId=1361&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINE+CLASSIC.png" tvg-id=" group-title="FRANÇA",CINE+ CLASSIC
-http://medias.bossna-caffe.com:80/live?channelId=1360&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="http://media-recherche.ina.fr/image/VQTaZJ8u-IvY5HF3jok4b_5MEuIJLpe2Z_5I__mXl8fFz-2afcolNsx06XuI53U-RhfJYdetP_730TgpTFwTkl1pTFCAAOIzPLga9tWYYas.jpg" tvg-id=" group-title="FRANÇA",CINE POLAR
-http://medias.bossna-caffe.com:80/live?channelId=1367&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEFX.png" tvg-id=" group-title="FRANÇA",CINE FX
-http://medias.bossna-caffe.com:80/live?channelId=1366&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" tvg-id=" group-title="FRANÇA",DISNEY JUNIOR
-http://medias.bossna-caffe.com:80/live?channelId=1373&deviceMac=00:1A:79:45:A4:85&uid=13780
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-_bAyCgweAJs/WUxEs-UJe3I/AAAAAAAAHEE/LyMpsR8MX4EZQzZCTw8tZEpdX-k8JndfwCLcBGAs/s1600/canalplus_fr_infosport_plus.png" tvg-id=" group-title="FRANÇA",INFO SPORT+
  
 #EXTINF:-1 tvg-logo="http://bit.ly/IMG_PLANETECI" tvg-id=" group-title="FRANÇA",PLANETE+ CI
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" tvg-id=" group-title="FRANÇA",DISCOVERY CHANNEL
-http://medias.bossna-caffe.com:80/live?channelId=1370&deviceMac=00:1A:79:45:A4:85&uid=13780
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/hh/histoire_fr.png" tvg-id=" group-title="FRANÇA",HISTOIRE
-http://medias.bossna-caffe.com:80/live?channelId=1380&deviceMac=00:1A:79:45:A4:85&uid=13780
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJHITS.png" tvg-id=" group-title="FRANÇA",NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJHITS.png" tvg-id=" group-title="FRANÇA",NRJ HITS HD
@@ -705,16 +647,20 @@ http://37.59.34.182:8000/live/iptvfree/iptvfree/1035.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CIELO.png" tvg-id=" group-title="ITALIA",CIELO
 http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AeLroKj.png" tvg-id=" group-title="ITALIA",SKY SPORT 24 HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/809.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="ITALIA",SKY SPORT 1 IT HD
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/812.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="ITALIA",SKY SPORT 2 IT HD
- 
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/811.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG/revision/latest?cb=20161118191326" tvg-id=" group-title="ITALIA",SPORTITALIA
 https://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-IT_e-885278_i-1866979820180627132246_k-_q-_t-hds/sportitalia247_1@5383/index_2000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" tvg-id=" group-title="ITALIA",RAI SPORT 1 HD
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT HD
-http://193.200.164.138:6204/live/hasan/123/9450.ts
+http://194.88.107.95:6204/live/danna/danna/9450.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT 2 HD
-http://193.200.164.138:6204/live/hasan/123/9449.ts
+http://194.88.107.95:6204/live/danna/danna/9449.m3u8
 #EXTINF:-1 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8sport.jpg" tvg-id=" group-title="ITALIA",RETE 8 SPORT
  
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" tvg-id=" group-title="ITALIA",HISTORY LAB
