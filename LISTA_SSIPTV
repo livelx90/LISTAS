@@ -51,12 +51,20 @@ http://212.8.248.213:8080/live/farouk/12345/880.m3u8
 https://sportsbar.pw/lba/123/g5/SportTV1.m3u8|Referer=https://sport7.pw/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="PORTUGAL",SPORT TV 2 (Copyright © 2018 by TeamBlue)
 http://212.8.248.213:8080/live/farouk/12345/881.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" group-title="PORTUGAL",SPORT TV 2 (Copyright © 2018 by TeamBlue)
+https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8|Referer=https://sport7.pw/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 (Copyright © 2018 by TeamBlue)
 http://212.8.248.213:8080/live/farouk/12345/882.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 (Copyright © 2018 by TeamBlue)
+https://sportsbar.pw/lba/123/g3/SportTV3.m3u8|Referer=https://sport7.pw/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2018 by TeamBlue)
 http://212.8.248.213:8080/live/farouk/12345/883.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2018 by TeamBlue)
+https://sportsbar.pw/lba/123/g4/Sport4PT.m3u8|Referer=https://sport7.pw/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2018 by TeamBlue)
 http://212.8.248.213:8080/live/farouk/12345/884.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2018 by TeamBlue)
+https://sportsbar.pw/lba/123/g9/SportTV5.m3u8|Referer=https://sport7.pw/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2018 by TeamBlue)
 http://212.8.248.213:8080/live/farouk/12345/900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" group-title="PORTUGAL",SPORTING TV HD (Copyright © 2018 by TeamBlue)
