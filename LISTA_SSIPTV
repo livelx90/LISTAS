@@ -87,6 +87,8 @@ http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepe
 http://formen1.com:8080/live/ada104/1414ss/16258.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png" group-title="PORTUGAL",24 KITCHEN HD (Copyright © 2018 by TeamBlue)
 http://188.93.238.41:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png" group-title="PORTUGAL",24 KITCHEN HD (Copyright © 2018 by TeamBlue)
+http://rb-group-server.com:25461/9876543210/9876543210/5014
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png" group-title="PORTUGAL",CANAL Q (Copyright © 2018 by TeamBlue)
 http://188.93.238.41:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png" group-title="PORTUGAL",CANAL Q (Copyright © 2018 by TeamBlue)
@@ -283,8 +285,6 @@ http://188.93.238.41:8000/play/a05i/index.m3u8
 http://188.93.238.41:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" group-title="PORTUGAL",AXN HD (Copyright © 2018 by TeamBlue)
 http://188.93.238.41:8000/play/a03u/index.m3u8
-#N/D
-#N/D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="PORTUGAL",FOX LIFE (Copyright © 2018 by TeamBlue)
 http://formen1.com:8080/live/ada104/1414ss/11253.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="PORTUGAL",FOX LIFE HD (Copyright © 2018 by TeamBlue)
@@ -295,16 +295,12 @@ http://formen1.com:8080/live/ada104/1414ss/16282.m3u8
 http://188.93.238.41:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png" group-title="PORTUGAL",FOX COMEDY (Copyright © 2018 by TeamBlue)
 http://188.93.238.41:8000/play/a02x/index.m3u8
-#N/D
-#N/D
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" group-title="PORTUGAL",AXN WHITE (Copyright © 2018 by TeamBlue)
+http://formen1.com:8080/live/ada104/1414ss/16287.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" group-title="PORTUGAL",AXN WHITE HD (Copyright © 2018 by TeamBlue)
 http://188.93.238.41:8000/play/a04c/index.m3u8
-#N/D
-#N/D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png" group-title="PORTUGAL",AXN BLACK HD (Copyright © 2018 by TeamBlue)
 http://188.93.238.41:8000/play/a04a/index.m3u8
-#N/D
-#N/D
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="PORTUGAL",SYFY (Copyright © 2018 by TeamBlue)
 http://188.93.238.41:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png" group-title="PORTUGAL",AMC (Copyright © 2018 by TeamBlue)
