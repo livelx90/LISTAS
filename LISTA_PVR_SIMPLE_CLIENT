@@ -13,6 +13,8 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" tvg-id="TVI24.pt" group-title="PORTUGAL",TVI24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" tvg-id="CMTV.pt" group-title="PORTUGAL",CMTV HD
+http://roiduiptv.ddns.net:9000/live/medoum1-xcdr/hbukoRUZwH/3452.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" tvg-id="PortoCanal.pt" group-title="PORTUGAL",PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://portocanal.sapo.pt/live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" tvg-id="sicradical.pt" group-title="PORTUGAL",SIC RADICAL
@@ -35,6 +37,8 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/13.ch
 http://pina7.ddns.net:8000/aplicacao/scp4ever/14.ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BTV
 http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" tvg-id="BenficaTV.pt" group-title="PORTUGAL",BTV HD
+http://roiduiptv.ddns.net:9000/live/medoum1-xcdr/hbukoRUZwH/3624.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id="0" group-title="PORTUGAL",ELEVEN SPORTS 1
 http://pina7.ddns.net:8000/aplicacao/scp4ever/16.ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" tvg-id=" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
@@ -752,16 +756,32 @@ http://5.255.90.226:5000/play/a004
 http://5.255.90.226:5000/play/a01f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" tvg-id=" group-title="UK",ITV 2
 http://5.255.90.226:5000/play/a00c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" tvg-id=" group-title="UK",ITV 3
+http://109.255.22.98:9981/stream/channelid/946705196
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" tvg-id=" group-title="UK",ITV 4
 http://5.255.90.226:5000/play/a00e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4+1.png" tvg-id=" group-title="UK",ITV 4 +1
 http://5.255.90.226:5000/play/a00f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE.png" tvg-id=" group-title="UK",ITVBe
 http://5.255.90.226:5000/play/a00g
+#EXTINF:-1 tvg-logo="http://i.imgur.com/te6XRf8.png" tvg-id=" group-title="UK",DRAMA
+http://109.255.22.98:9981/stream/channelid/1106806866
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" tvg-id=" group-title="UK",REALLY
+http://109.255.22.98:9981/stream/channelid/685531847
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4SEVEN.png" tvg-id=" group-title="UK",4Seven
 http://81.171.27.106:9002/play/a00k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MORE4.png" tvg-id=" group-title="UK",More4
+http://109.255.22.98:9981/stream/channelid/1795571613
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" tvg-id=" group-title="UK",CBS Reality
+http://109.255.22.98:9981/stream/channelid/382113230
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b7/Real_Lives.png/revision/latest?cb=20150615111708" tvg-id=" group-title="UK",Real Lives
 http://92.14.111.173:8007/play/a00v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" tvg-id=" group-title="UK",Quest
+http://109.255.22.98:9981/stream/channelid/733893174
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" tvg-id=" group-title="UK",TRUE ENTERTAINMENT
+http://109.255.22.98:9981/stream/channelid/1669068327
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSDRAMA.png" tvg-id=" group-title="UK",CBS Drama
+http://109.255.22.98:9981/stream/channelid/1171356871
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" tvg-id=" group-title="UK",NAT GEO WILD
 http://92.14.111.173:8007/play/a00w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" tvg-id=" group-title="UK",NATIONAL GEOGRAPHIC
@@ -772,6 +792,8 @@ http://92.14.111.173:8007/play/a00z
 http://92.14.111.173:8007/play/a00y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png" tvg-id=" group-title="UK",CRIME + INVESTIGATION
 http://92.14.111.173:8007/play/a00u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" tvg-id=" group-title="UK",TRAVEL CHANNEL
+http://109.255.22.98:9981/stream/channelid/1980228671
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png" tvg-id=" group-title="UK",MTV LIVE
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="UK",MTV HITS
@@ -780,6 +802,8 @@ http://209.91.213.10:8000/play/a00z
 http://91.231.219.145:80/tv_vh1_european/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png" tvg-id=" group-title="UK",VH1 CLASSIC
 http://91.231.219.145/tv_vh1_classic/video.m3u8
+#EXTINF:-1 tvg-logo="https://geekboy95.files.wordpress.com/2014/01/film4-logo.jpg" tvg-id=" group-title="UK",FILM4
+http://109.255.22.98:9981/stream/channelid/890847725
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" tvg-id=" group-title="UK",SKY SPORTS F1
 http://92.14.111.173:8007/play/a011
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" tvg-id=" group-title="UK",BT SPORT 1 HD
