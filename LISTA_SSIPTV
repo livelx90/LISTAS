@@ -381,6 +381,8 @@ http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b87993
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png" group-title="ALEMANHA",Fine Living Network (Copyright © 2018 by TeamBlue)
 http://ott-cdn.ucom.am/s51/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" group-title="ALEMANHA",Food Network (Copyright © 2018 by TeamBlue)
+http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SONNENKLAR.png" group-title="ALEMANHA",Sonnenklar TV (Copyright © 2018 by TeamBlue)
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" group-title="ALEMANHA",TV5 Monde (Copyright © 2018 by TeamBlue)

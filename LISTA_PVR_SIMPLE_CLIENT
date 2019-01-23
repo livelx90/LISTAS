@@ -145,6 +145,8 @@ http://213.188.44.135:8000/play/a05q
 http://213.188.44.135:8052/play/a01d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FTV.png" tvg-id="FASHIONTV" group-title="PORTUGAL",FTV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id="FOOD" group-title="PORTUGAL",FOOD NETWORK
+http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png" tvg-id="FLIVINGHD" group-title="PORTUGAL",FINE LIVING NETWORK
 http://ott-cdn.ucom.am/s51/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LUXETV.png" tvg-id="0" group-title="PORTUGAL",LUXE TV
@@ -349,6 +351,8 @@ http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b87993
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png" tvg-id=" group-title="ALEMANHA",Fine Living Network
 http://ott-cdn.ucom.am/s51/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id=" group-title="ALEMANHA",Food Network
+http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SONNENKLAR.png" tvg-id=" group-title="ALEMANHA",Sonnenklar TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="ALEMANHA",TV5 Monde
