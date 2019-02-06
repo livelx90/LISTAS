@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,MOREIRENSE - FC PORTO
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
+http://85.244.70.140:7000/play/a035
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
+https://livebar.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
+http://vip7stream.pw/lba/123/g5/tv1pt.m3u8
