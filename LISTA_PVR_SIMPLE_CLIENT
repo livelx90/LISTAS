@@ -25,6 +25,8 @@ http://live.impresa.pt/live/sicrad/sicrad.m3u8
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
 http://85.244.70.140:7000/play/a035
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
+http://163.172.131.72:80/hls/sporttv1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2
 http://185-125-230-172.livesports24.online/portugalsport2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
@@ -34,9 +36,9 @@ http://85.244.70.140:7000/play/a02w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
 http://185-125-230-172.livesports24.online/sport3tvpt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-https://livebar.pw/lba/123/g4/portugalsport4.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+http://85.244.70.140:7000/play/a02y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-https://livebar.pw/lba/123/g9/ptsport5.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+http://163.172.131.72:80/hls/sporttv5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id="eurosport.pt" group-title="PORTUGAL",EUROSPORT
 http://85.244.70.140:7000/play/a02z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTNEWS.png" tvg-id="0" group-title="PORTUGAL",EUROSPORT NEWS
@@ -129,7 +131,7 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id="0" group-title="PORTUGAL",BBC WORLD NEWS
 http://190.13.120.114/streams/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" tvg-id="0" group-title="PORTUGAL",CBSN
+#N/D
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id="0" group-title="PORTUGAL",FOX NEWS
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
@@ -257,8 +259,6 @@ http://stream.1music.hu/stream/1music.m3u8
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DASERST.png" tvg-id=" group-title="ALEMANHA",Das Erste
 https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DASERST.png" tvg-id=" group-title="ALEMANHA",Das Erste HD
-http://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-p.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTL.png" tvg-id=" group-title="ALEMANHA",RTL
 http://cms3.fastiptv.org:80/live?channelId=95&uid=161&deviceMac=00:1a:79:39:92:7f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SAT1.png" tvg-id=" group-title="ALEMANHA",Sat.1
@@ -469,6 +469,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" tvg-id=" group-title="ESPANHA",TVI INTERNACIONAL
 http://video-auth8.iol.pt:80/live_tvi_internacional_ww/live_tvi_internacional_ww-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" tvg-id=" group-title="ESPANHA",TELESUR
+http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NHKWORLD.png" tvg-id=" group-title="ESPANHA",NHK WORLD
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
@@ -569,58 +571,10 @@ http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/INGLATERRA.png",INGLATERRA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" tvg-id=" group-title="UK",ITV
-https://cdn3.transponder.tv//hlp_8636afcda48c5/itv_hi.m3u8?streamKey=fb0e4f279e32511961dc80e930b690ac-f01ed0909d92f9d51295f17e1cbe7867
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" tvg-id=" group-title="UK",Channel 4
-https://cdn2.transponder.tv//hlp_844bcab6656d1/channel4_hi.m3u8?streamKey=ab898b9e1eedec139953375f26898627-86595b8222ee07105a72bf0c9a001e79
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL5UK.png" tvg-id=" group-title="UK",Channel 5
-https://cdn3.transponder.tv//hlp_a6dc745322609/channel5_hi.m3u8?streamKey=674a06061e4b1c12c0a6f885d2fdef19-0038763a703e39b633286d0c52f21b27
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" tvg-id=" group-title="UK",ITV 2
-https://cdn3.transponder.tv//hlp_7d8b68a6c6556/itv2_hi.m3u8?streamKey=03e6728424c9148a0e6bd3cc801ec045-d3126f7ffbfd484a2662885af7ae20fd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" tvg-id=" group-title="UK",ITV 3
-https://cdn2.transponder.tv//hlp_bae86e63ca7b5/itv3_hi.m3u8?streamKey=24ce3709114e13fe5fd4ecac8c1f7da2-f586f76dd97915a5150385a3446e3f9b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAVE.png" tvg-id=" group-title="UK",Dave
-https://cdn2.transponder.tv//hlp_5d6c4a1e376cd/dave_hi.m3u8?streamKey=fb167ba7b0431a7067fe6253eba5d767-c676d1bc2e479ace8bdc541c8abe1304
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MORE4.png" tvg-id=" group-title="UK",More4
-https://cdn3.transponder.tv//hlp_375af66bc2c52/more4_hi.m3u8?streamKey=2db367bda91a20eeb154fd651312d433-46fd10673260834184a12143801637ee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FILM4UK.png" tvg-id=" group-title="UK",Film4
-https://cdn3.transponder.tv//hlp_6657c96ed6a58/film4_hi.m3u8?streamKey=a79adf4faaa17224e25463e7b0199da7-7f9881688d9bf79d350fcbd2ea2d52dd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4MUSIC.png" tvg-id=" group-title="UK",4Music
-https://cdn2.transponder.tv//hlp_44c5c645756a0/4music_hi.m3u8?streamKey=0ead4b077bbfd4e41e4294123ee306e9-ed61c46b054a57f594998d5536d94a92
-#EXTINF:-1 tvg-logo="http://i.imgur.com/te6XRf8.png" tvg-id=" group-title="UK",Drama
-https://cdn3.transponder.tv//hlp_46c921546dfac/drama_hi.m3u8?streamKey=89cb20ceffd7888082e17de555253348-67db04976bbefdf5f7a456c80297972d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/5USA.png" tvg-id=" group-title="UK",5 USA
-https://cdn2.transponder.tv//hlp_687663a9c7865/5usa_hi.m3u8?streamKey=7de74789bb1ec745b2d35ac9d699e191-3f545acae3f83499d2e7766cabdd52dc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" tvg-id=" group-title="UK",ITV 4
-https://cdn3.transponder.tv//hlp_a936a645860c5/itv4_hi.m3u8?streamKey=1d2d4b9647b036f3f821dbecbddc4d87-ba050a72f1823dd0b116271944ed99c7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE.png" tvg-id=" group-title="UK",ITVBe
-https://cdn3.transponder.tv//hlp_5da66802caa5a/itvbe_hi.m3u8?streamKey=4a1182b382fff17382b9fbfd7398836a-9fd01162b049c1c115b810cc1efe8ef8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E4UK.png" tvg-id=" group-title="UK",E4
-https://cdn2.transponder.tv//hlp_c5c5ebea66f67/e4_hi.m3u8?streamKey=79b59d7febc72d1adf2038ba618dc247-a8cf1d2cb18b72528594af6d99f209ec
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/5STAR.png" tvg-id=" group-title="UK",5STAR
-https://cdn3.transponder.tv//hlp_864c50a371d6d/5star_hi.m3u8?streamKey=f4f731f8f3b2d82e324683bb74a4d3ca-68fa878b447d643faf13a118c4566433
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPIKE.png" tvg-id=" group-title="UK",Spike
-https://cdn2.transponder.tv//hlp_668a84155c2ca/spike_hi.m3u8?streamKey=7fa3db157f605c7883bc8ebd3e77d2e7-0b91836afca8ae3cd1052f912c87fe1a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" tvg-id=" group-title="UK",Travel Channel
-https://cdn2.transponder.tv//hlp_6dacdfe5d65fa/travelchannel_hi.m3u8?streamKey=994291f73a87f74895ee80779b5b2dd9-7943425167723915fcc66713d1a49706
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHALLENGE.png" tvg-id=" group-title="UK",Challenge
-https://cdn3.transponder.tv//hlp_6cf4566aaf5cd/challenge_hi.m3u8?streamKey=dbbd44ace83d38d9c7aa0ef2279be477-8d988951eabeacb1547e9860829bd8b0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4SEVEN.png" tvg-id=" group-title="UK",4Seven
-https://cdn2.transponder.tv//hlp_73a0c663f5762/4seven_hi.m3u8?streamKey=4fe4ba16e139c638bd7366c392094aa5-fbe003db2bcdd5ddf204a1b8d448c704
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" tvg-id=" group-title="UK",movies4men
-https://cdn3.transponder.tv//hlp_c6864ae9dd956/movies4men_hi.m3u8?streamKey=2ecaacdb6217ab20f9d11c5082c7f49d-bb8b66a11a48c57e789cefd998fa1d01
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images6/Horrorchannel.svg/revision/latest/scale-to-width-down/300?cb=20141218120714" tvg-id=" group-title="UK",Horror Channel
-https://cdn2.transponder.tv//hlp_5a6a656cc6cba/horrorchannel_hi.m3u8?streamKey=53c8cf7c2bdf768d6b6af6ce87d00fb4-4bb1531f82350aed8335faa5201b4185
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PBSCHANNEL.png" tvg-id=" group-title="UK",PBS
-http://ilvc02.ak.ustvnow.com/ilv11/smil:862ECWPSUUSTVNOW/chunklist_b2328000.m3u8?hdnts=st=1550232000~exp=1550260800~acl=*~hmac=3b8b09cd09d0df3f0bd6aa61aed474dd2432fb9087d382cdceb47de5e0ac945f&hdntl=exp=1550319243~acl=*~data=hdntl~hmac=41fee8f18ccea38a92a07c698953fdd1ad06485d1b678dda53d2b142f53741cb&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTdhNzk4IiwidCI6Im8yNHpqbWV1eGkxdWZpdmZ3djNmc3R1MmFhc20iLCJpIjoiYjk5NDkzZWMiLCJzIjoid3BzdSJ9.3mNOf61Uy6tj2UitYDq_Arf9LDtfJQ3iULNa8a7O1bI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALJAZEERA.png" tvg-id=" group-title="UK",Al Jazeera EN
 http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png" tvg-id=" group-title="UK",CITV
-https://cdn3.transponder.tv//hlp_7d61580476bca/citv_hi.m3u8?streamKey=9adc8538156fe4354b39b8b28586e659-873e27bd07691bffa91a347f11f25d23
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" tvg-id=" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOXNATION.png" tvg-id=" group-title="UK",Box Nation
-http://you.dnsimage.tk/live/boxnation-hq/chunks.m3u8?nimblesessionid=723857&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE5IDEyOjA5OjMxIFBNJmhhc2hfdmFsdWU9eGRzbEdqc1oyM1dzYm9TcEI2TUcrZz09JnZhbGlkbWludXRlcz02MCZpZD05NS4xOS44Ny4yMDImc3RybV9sZW49NQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARISENEWS.png" tvg-id=" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="UK",CNN
@@ -661,82 +615,98 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/USA.png",USA
 http://0.0.0.1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png" tvg-id=" group-title="USA",ABC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" tvg-id=" group-title="USA",CBS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png" tvg-id=" group-title="USA",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TBS.png" tvg-id=" group-title="USA",TBS
-http://190.13.120.115/streams/tbs.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png" tvg-id=" group-title="USA",BBC AMERICA
-http://190.13.120.114/streams/bbcamerica.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="USA",SYFY
-http://190.13.120.113/streams/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WGNAMERICA.png" tvg-id=" group-title="USA",WGN AMERICA
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BRAVOTV.png" tvg-id=" group-title="USA",BRAVO
-http://ilvc04.ak.ustvnow.com/ilv11/smil:AD548BRAVUSTVNOW/chunklist_b2328000.m3u8?hdnts=st=1550232000~exp=1550260800~acl=*~hmac=3b8b09cd09d0df3f0bd6aa61aed474dd2432fb9087d382cdceb47de5e0ac945f&hdntl=exp=1550319442~acl=*~data=hdntl~hmac=60577276cf664b7c1ee15959043b68aeaf02d14b96a717dbfbda272a72f98894&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTdhNzk5IiwidCI6Im8yNHpqbWV1eGkxdWZpdmZ3djNmc3R1MmFhc20iLCJpIjoiYjk5NDkzZWMiLCJzIjoiYnJhdm8ifQ.V0O0QCYzmO1XrmyYXM75vnUEwgsLeBBytY-NBGcYpAw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id=" group-title="USA",BBC WORLD NEWS
-http://190.13.120.114/streams/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABCNEWS.png" tvg-id=" group-title="USA",ABC NEWS
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id=" group-title="USA",FOX NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="USA",CNBC
+http://61.216.177.73/sta/ch91865014.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="USA",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXNEWS.png" tvg-id=" group-title="USA",FOX News
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX30.png" tvg-id=" group-title="USA",FOX 30
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="USA",CNBC
-http://61.216.177.73/sta/ch91865014.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" tvg-id=" group-title="USA",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="USA",BLOOMBERG
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" tvg-id=" group-title="USA",RT AMERICA
-https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEWEATHERCHANNEL.png" tvg-id=" group-title="USA",THE WEATHER CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id=" group-title="USA",Food Network
+http://190.13.120.112/streams/food.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id=" group-title="USA",Food Network HD
+http://190.13.120.112/streams/food.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TBS.png" tvg-id=" group-title="USA",TBS
+http://190.13.120.115/streams/tbs.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" tvg-id=" group-title="USA",History
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" tvg-id=" group-title="USA",History HD
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="USA",Syfy
+http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="USA",Syfy HD
+http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" tvg-id=" group-title="USA",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEWEATHERCHANNEL.png" tvg-id=" group-title="USA",The Weather channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CSPAN2.png" tvg-id=" group-title="USA",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CW.png" tvg-id=" group-title="USA",CW
-http://ilvc04.ak.ustvnow.com/ilv01/smil:26087WLYHUSTVNOW/chunklist_b2328000.m3u8?hdnts=st=1550232000~exp=1550260800~acl=*~hmac=3b8b09cd09d0df3f0bd6aa61aed474dd2432fb9087d382cdceb47de5e0ac945f&hdntl=exp=1550319120~acl=*~data=hdntl~hmac=06c8bdba5074141f72fed82d9107bc6236626fbbef416b4a661c79b6c5c17aa5&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTdhNzk4IiwidCI6Im8yNHpqbWV1eGkxdWZpdmZ3djNmc3R1MmFhc20iLCJpIjoiYjk5NDkzZWMiLCJzIjoid2x5aCJ9.NWennZuexOcDfIQAmGUOerhuBbLmFZH8M2cwJcxsN4c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" tvg-id=" group-title="USA",ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" tvg-id=" group-title="USA",TRAVEL CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WGNAMERICA.png" tvg-id=" group-title="USA",WGN America
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" tvg-id=" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" tvg-id=" group-title="USA",HISTORY
-http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" tvg-id=" group-title="USA",H2
-http://190.13.120.113/streams/biography.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" tvg-id=" group-title="USA",INVESTIGATION DISCOVERY
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" tvg-id=" group-title="USA",BABY TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png" tvg-id=" group-title="USA",BBC America
 http://190.13.120.114/streams/babytv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="USA",WWE NETWORK
-http://you.dnsimage.tk/live/wwe-hq/chunks.m3u8?nimblesessionid=723859&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE5IDEyOjA5OjU4IFBNJmhhc2hfdmFsdWU9YUs0M0M4blFpYmJpaWdCcWVqM293QT09JnZhbGlkbWludXRlcz02MCZpZD05NS4xOS44Ny4yMDImc3RybV9sZW49NQ==
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" tvg-id=" group-title="USA",FOOD NETWORK
-http://190.13.120.112/streams/food.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BYUTV.png" tvg-id=" group-title="USA",BYU TV
-https://byubhls-i.akamaihd.net/hls/live/267280/byutvglobal/master_4064.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png" tvg-id=" group-title="USA",BBC America HD
+http://190.13.120.114/streams/bbcamerica.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png" tvg-id=" group-title="USA",Euronews
+http://164.40.161.46:8002/play/s4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" tvg-id=" group-title="USA",BBC World News
+http://190.13.120.114/streams/bbcworld.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" tvg-id=" group-title="USA",Bloomberg
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NHKWORLD.png" tvg-id=" group-title="USA",NHK World
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVLIVE.png" tvg-id=" group-title="USA",MTV Live HD
+http://91.202.196.122:8000/play/a033/index.m3u8  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" tvg-id=" group-title="USA",Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REELZCHANNEL.png" tvg-id=" group-title="USA",ReelzChannel
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REELZCHANNEL.png" tvg-id=" group-title="USA",ReelzChannel HD
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",ESPN USA
 http://www.garaveli.de///iptv.php?espn&m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="USA",ESPN 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" tvg-id=" group-title="USA",NFL NETWORK
-http://you.dnsimage.tk/live/nflnetwork-hq/chunks.m3u8?nimblesessionid=723854&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE5IDEyOjA4OjM4IFBNJmhhc2hfdmFsdWU9NUdCYXJ3dlJGSUNCTVN6ajlmYXBPQT09JnZhbGlkbWludXRlcz02MCZpZD05NS4xOS44Ny4yMDImc3RybV9sZW49NQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" tvg-id=" group-title="USA",NBA
 http://203.154.243.32:8088/live/nba/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" tvg-id=" group-title="USA",MLB NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" tvg-id=" group-title="USA",NBA HD
+http://203.154.243.32:8088/live/nba/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" tvg-id=" group-title="USA",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" tvg-id=" group-title="USA",FOX SPORTS 1 USA
-http://you.dnsimage.tk/live/foxsports1-hq/chunks.m3u8?nimblesessionid=723849&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE5IDEyOjA3OjI2IFBNJmhhc2hfdmFsdWU9M3ZSTVdiTmJrN083RG5hMzl1elBwdz09JnZhbGlkbWludXRlcz02MCZpZD05NS4xOS44Ny4yMDImc3RybV9sZW49NQ==
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS2.png" tvg-id=" group-title="USA",FOX SPORTS 2 USA
-http://you.dnsimage.tk/live/foxsports2-hq/chunks.m3u8?nimblesessionid=723851&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE5IDEyOjA3OjU5IFBNJmhhc2hfdmFsdWU9OWVXcHhZZjNTQXJDY3ZrRWEwSVZZdz09JnZhbGlkbWludXRlcz02MCZpZD05NS4xOS44Ny4yMDImc3RybV9sZW49NQ==
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OUTDOORCHANNEL.png" tvg-id=" group-title="USA",OUTDOOR CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEGOLFCHANNEL.png" tvg-id=" group-title="USA",The Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/OUTDOORCHANNEL.png" tvg-id=" group-title="USA",Outdoor Channel
 http://190.13.120.115/streams/outdoor.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO2.png" tvg-id=" group-title="USA",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" tvg-id=" group-title="USA",SYFY
-http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" tvg-id=" group-title="USA",TVE 24H
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/I24NEWS.png" tvg-id=" group-title="USA",I 24 NEWS EN
+https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/I24NEWS.png" tvg-id=" group-title="USA",I 24 NEWS FR
+https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id=" group-title="USA",TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" tvg-id=" group-title="USA",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" tvg-id=" group-title="USA",RTP Internacional
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" tvg-id=" group-title="USA",RT AMERICA
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" tvg-id=" group-title="USA",RECORD
+https://edge-04.playmedia-cdn.net/origin02/amlst:tv-record/chunklist_w1251765451_b800000.m3u8?dar=ws&t=18ddf1b11ff0fbb27659a265b39d1126ffdd3cce03753c70f0e586f6fcbb26e0e129430af2a4cbb386ae237a7f5d5229864f601aacaad9ddef69faf30dff0c41dd96d6e6e53e9392c75db32c4163bcaee39cc0e4af674e228803838c39af958095e27b4afe1b5bff56b794249a6c986e0f2f84b0280889a6ea26ba832d5dfba12749aeb39258e6429e640abcca5ed684dedebd3dfc5477e49ae8226b1ffe140eb3d74f501da4cead8841040c990f64f1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id=" group-title="USA",RAI 1
+http://cms3.fastiptv.org:80/live?channelId=102&uid=161&deviceMac=00:1a:79:39:92:7f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTNAMERICA.png" tvg-id=" group-title="USA",CGTN AMERICA
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PBSCHANNEL.png" tvg-id=" group-title="USA",PBS
-http://ilvc02.ak.ustvnow.com/ilv11/smil:862ECWPSUUSTVNOW/chunklist_b2328000.m3u8?hdnts=st=1550232000~exp=1550260800~acl=*~hmac=3b8b09cd09d0df3f0bd6aa61aed474dd2432fb9087d382cdceb47de5e0ac945f&hdntl=exp=1550319243~acl=*~data=hdntl~hmac=41fee8f18ccea38a92a07c698953fdd1ad06485d1b678dda53d2b142f53741cb&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTdhNzk4IiwidCI6Im8yNHpqbWV1eGkxdWZpdmZ3djNmc3R1MmFhc20iLCJpIjoiYjk5NDkzZWMiLCJzIjoid3BzdSJ9.3mNOf61Uy6tj2UitYDq_Arf9LDtfJQ3iULNa8a7O1bI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" group-title="RADIOS",94FM (Copyright © 2019 - TeamBlue)
