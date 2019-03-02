@@ -1,15 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICOcomp/master/LIGANOS.png",MOREIRENSE - FC PORTO
-http://fui.me
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
-http://85.244.70.140:7000/play/a035
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
-http://servicospremium.dynu.net:8000/live/CarlosCunha/Jrp3dep8Q7/1613.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
+#EXTINF:-1,SPORT TV 1
 https://livebar.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
-http://vip7stream.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
-http://servicospremium.dynu.net:8000/live/CarlosCunha/Jrp3dep8Q7/1612.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 FHD
-http://servicospremium.dynu.net:8000/live/CarlosCunha/Jrp3dep8Q7/1611.m3u8
+#EXTINF:-1,SPORT TV 2
+https://livebar.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1,SPORT TV 3
+https://livebar.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1,SPORT TV 4
+https://livebar.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1,SPORT TV 5
+https://livebar.pw/lba/123/g9/ptsport5.m3u8
+#EXTINF:-1,SPORT TV 1
+https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1,SPORT TV 2
+https://vip7stream.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1,SPORT TV 3
+https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1,SPORT TV 4
+https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1,SPORT TV 5
+https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
+#EXTINF:-1,SPORT TV 2HD
+https://185-125-230-172.livesports24.online/portugalsport2.m3u8
+
+
