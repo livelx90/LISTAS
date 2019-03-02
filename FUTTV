@@ -65,3 +65,17 @@ http://85.244.70.140:7000/play/a014
 http://85.244.70.140:7000/play/a00p 
 #EXTINF:-1,VH1 Europe 
 http://85.244.70.140:7000/play/a012
+
+
+#EXTINF:-1,[PO] Sport_TV_4
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4705.ts
+#EXTINF:-1,[PO] Sport_TV_5
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4680.ts
+#EXTINF:-1,[PO] Sport_TV_plus
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4685.ts
+#EXTINF:-1,[PO] Sport_Tv_1
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4715.ts
+#EXTINF:-1,[PO] Sport_Tv_2
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4714.ts
+#EXTINF:-1,[PO] Sport_Tv_3
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4713.ts
