@@ -1,15 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICOcomp/master/LIGANOS.png",MOREIRENSE - FC PORTO
-http://fui.me
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
-http://85.244.70.140:7000/play/a035
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
-http://servicospremium.dynu.net:8000/live/CarlosCunha/Jrp3dep8Q7/1613.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
+#EXTINF:-1,SPORT TV 1
 https://livebar.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
-http://vip7stream.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
-http://servicospremium.dynu.net:8000/live/CarlosCunha/Jrp3dep8Q7/1612.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 FHD
-http://servicospremium.dynu.net:8000/live/CarlosCunha/Jrp3dep8Q7/1611.m3u8
+#EXTINF:-1,SPORT TV 2
+https://livebar.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1,SPORT TV 3
+https://livebar.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1,SPORT TV 4
+https://livebar.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1,SPORT TV 5
+https://livebar.pw/lba/123/g9/ptsport5.m3u8
+#EXTINF:-1,SPORT TV 1
+https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1,SPORT TV 2
+https://vip7stream.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1,SPORT TV 3
+https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1,SPORT TV 4
+https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1,SPORT TV 5
+https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
+#EXTINF:-1,SPORT TV 2HD
+https://185-125-230-172.livesports24.online/portugalsport2.m3u8
+
+http://85.244.70.140:7000/play/a02v 
+#EXTINF:-1,SIC MULHER 
+http://85.244.70.140:7000/play/a00y 
+#EXTINF:-1,SPORT TV 1 
+http://85.244.70.140:7000/play/a035 
+#EXTINF:-1,SPORT TV 2 FHD 
+http://85.244.70.140:7000/play/a02t 
+#EXTINF:-1,SPORT TV 3 
+http://85.244.70.140:7000/play/a02w 
+#EXTINF:-1,SPORT TV 4 
+http://85.244.70.140:7000/play/a02y 
+#EXTINF:-1,EUROSPORT 
+http://85.244.70.140:7000/play/a02z 
+#EXTINF:-1,EUROSPORT NEWS 
+http://85.244.70.140:7000/play/a010 
+#EXTINF:-1,MOTORVISION TV 
+http://85.244.70.140:7000/play/a00t 
+#EXTINF:-1,DISNEY JUNIOR 
+http://85.244.70.140:7000/play/a015 
+#EXTINF:-1,PANDA BIGGS 
+http://85.244.70.140:7000/play/a013 
+#EXTINF:-1,NICKELODEON 
+http://85.244.70.140:7000/play/a00o 
+#EXTINF:-1,AMC HD 
+http://85.244.70.140:7000/play/a037 
+#EXTINF:-1,TVI REALITY 
+http://85.244.70.140:7000/play/a00x 
+#EXTINF:-1,VH1 EUROPE 
+http://85.244.70.140:7000/play/a012 
+#EXTINF:-1,DISCOVERY SHOWCASE 
+http://85.244.70.140:7000/play/a00n 
+#EXTINF:-1,A&E 
+http://85.244.70.140:7000/play/a011 
+#EXTINF:-1,TLC 
+http://85.244.70.140:7000/play/a00z 
+#EXTINF:-1,BBC ENTERTAINMENT 
+http://85.244.70.140:7000/play/a00u 
+#EXTINF:-1,TOROS TV 
+http://85.244.70.140:7000/play/a014 
+#EXTINF:-1,CACA & PESCA 
+http://85.244.70.140:7000/play/a00p 
+#EXTINF:-1,VH1 Europe 
+http://85.244.70.140:7000/play/a012
+
+
+#EXTINF:-1,[PO] Sport_TV_4
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4705.ts
+#EXTINF:-1,[PO] Sport_TV_5
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4680.ts
+#EXTINF:-1,[PO] Sport_TV_plus
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4685.ts
+#EXTINF:-1,[PO] Sport_Tv_1
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4715.ts
+#EXTINF:-1,[PO] Sport_Tv_2
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4714.ts
+#EXTINF:-1,[PO] Sport_Tv_3
+http://stream.spidertv.info:2086/live/spainportugel/jQNyNsqnBP/4713.ts
