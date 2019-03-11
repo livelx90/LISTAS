@@ -189,10 +189,6 @@ http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
 http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" tvg-id="Cacaavision" group-title="PORTUGAL",CACAVISION
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTBOX.png" tvg-id="0" group-title="PORTUGAL",FIGHT BOX
-http://mediastream.pro/stream/45532/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" tvg-id="FightNetwork" group-title="PORTUGAL",FIGHT NETWORK
-http://mediastream.pro/stream/2933/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/BRASIL.png",BRASIL
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVCULTURA.png" tvg-id=" group-title="BRASIL",TV CULTURA
@@ -653,32 +649,8 @@ http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FRANCE24.png" tvg-id=" group-title="ALEMANHA",France 24 FR
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" tvg-id=" group-title="ALEMANHA",Sport1
-http://mediastream.pro/stream/1571/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="ALEMANHA",Eurosport 1 DE
-http://mediastream.pro/stream/1806/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="ALEMANHA",Eurosport 2 DE
-http://mediastream.pro/stream/4522/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="http://i.imgur.comQMc5EO.png" tvg-id=" group-title="ALEMANHA",Sky Sport News
 http://88.152.15.230:7522/upnp/channelstream/117
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="ALEMANHA",Sky Sport 1 DE
-http://mediastream.pro/stream/243/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="ALEMANHA",Sky Sport 2 DE
-http://mediastream.pro/stream/539/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 1 HD
-http://mediastream.pro/stream/541/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 2 HD
-http://mediastream.pro/stream/967/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 3 HD
-http://mediastream.pro/stream/2136/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 4 HD
-http://mediastream.pro/stream/2137/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" tvg-id=" group-title="ALEMANHA",SKY SPORT BUNDESLIGA 5 HD
-http://mediastream.pro/stream/2138/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAZN.png" tvg-id=" group-title="ALEMANHA",DAZN SPORT 1
-http://mediastream.pro/stream/45118/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAZN.png" tvg-id=" group-title="ALEMANHA",DAZN SPORT 2
-http://mediastream.pro/stream/45119/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" tvg-id=" group-title="ALEMANHA",Super RTL Hd
 http://5.44.126.198:9981/stream/channelid/199982905
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DEUTSCHESMUSIKFERNSEHEN.png" tvg-id=" group-title="ALEMANHA",Deutsches Musik Fernsehen
@@ -805,10 +777,8 @@ http://5.189.185.173:8000/play/a02g
 http://5.189.185.173:8000/play/a0ah
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png" tvg-id=" group-title="ESPANHA",TCM
 http://5.189.185.173:8000/play/a0ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png" tvg-id=" group-title="ESPANHA",MOVISTAR FUTBOL HD
-http://mediastream.pro/stream/2941/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png" tvg-id=" group-title="ESPANHA",beiN SPORTS HD
-http://mediastream.pro/stream/2940/imran00253/ranmirtufg/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARPARTIDAZO.png" tvg-id=" group-title="ESPANHA",MOVISTAR PARTIDAZO
+https://storage.tumarcador.xyz/t1/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" tvg-id=" group-title="ESPANHA",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REALMADRID.png" tvg-id=" group-title="ESPANHA",REAL MADRID TV HD
@@ -825,8 +795,6 @@ http://5.189.185.173:8000/play/a092
 https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b348000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" tvg-id=" group-title="ESPANHA",MOVISTAR FORMULA 1
 http://5.189.185.173:8000/play/a0a8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" tvg-id=" group-title="ESPANHA",MOVISTAR FORMULA 1 HD
-http://mediastream.pro/stream/2934/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png" tvg-id=" group-title="ESPANHA",MOVISTAR MOTO GP
 http://5.189.185.173:8000/play/a02i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" tvg-id=" group-title="ESPANHA",MOVISTAR GOLF
@@ -927,26 +895,8 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LEQUIPE.png" tvg-id=" group-title="FRANÇA",L'EQUIPE 21
 http://ec.playmedia.fr/lequipe21/live/chunklist_w811887822.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 1
-http://mediastream.pro/stream/2935/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 2
-http://mediastream.pro/stream/973/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS3.png" tvg-id=" group-title="FRANÇA",beiN SPORTS 3
-http://mediastream.pro/stream/974/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RMCSPORT1.png" tvg-id=" group-title="FRANÇA",RMC SPORT 1
-http://mediastream.pro/stream/3132/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RMCSPORT2.png" tvg-id=" group-title="FRANÇA",RMC SPORT 2
-http://mediastream.pro/stream/3133/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RMCSPORT2.png" tvg-id=" group-title="FRANÇA",RMC SPORT 2 HD
 http://89.163.140.211:9898/sfrsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RMCSPORT3.png" tvg-id=" group-title="FRANÇA",RMC SPORT 3
-http://mediastream.pro/stream/3134/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="FRANÇA",EUROSPORT 1 FR
-http://mediastream.pro/stream/3815/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="FRANÇA",EUROSPORT 2 FR
-http://mediastream.pro/stream/3816/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SPORT.png" tvg-id=" group-title="FRANÇA",CANAL+ SPORT HD
-http://mediastream.pro/stream/3032/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id=" group-title="FRANÇA",MTV HITS
 http://213.59.140.53:9996/play/MTV_Hits/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRACEAFRICA.png" tvg-id=" group-title="FRANÇA",TRACE AFRICA
@@ -967,8 +917,6 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 http://89.163.140.211:9898/boomerang/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png" tvg-id=" group-title="FRANÇA",BOING
 http://89.163.140.211:9898/boing/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GOLFCHANNEL.png" tvg-id=" group-title="FRANÇA",GOLF CHANNEL HD
-http://mediastream.pro/stream/3817/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJHITS.png" tvg-id=" group-title="FRANÇA",NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" tvg-id=" group-title="FRANÇA",MEZZO
@@ -997,8 +945,6 @@ https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="FRANÇA",CNBC
 http://61.216.177.73/sta/ch91865014.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOT+FR.png" tvg-id=" group-title="FRANÇA",FOOT+
-http://mediastream.pro/stream/3818/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ITALIA.png",ITALIA
 http://0.0.0.1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI1.png" tvg-id=" group-title="ITALIA",RAI 1
@@ -1035,54 +981,6 @@ http://212.115.255.197/hls/mtvrocks.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CIELO.png" tvg-id=" group-title="ITALIA",CIELO
 https://5c23f8c141255.streamlock.net/cielotv/cielotv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png" tvg-id=" group-title="ITALIA",SKY SPORT 1 IT HD
-http://mediastream.pro/stream/822/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png" tvg-id=" group-title="ITALIA",SKY SPORT 2 IT
-http://mediastream.pro/stream/823/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png" tvg-id=" group-title="ITALIA",SKY SPORT 3 IT HD
-http://mediastream.pro/stream/2606/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" tvg-id=" group-title="ITALIA",EUROSPORT 1 IT
-http://mediastream.pro/stream/1255/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="ITALIA",EUROSPORT 2 IT
-http://mediastream.pro/stream/1256/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG/revision/latest?cb=20161118191326" tvg-id=" group-title="ITALIA",SPORTITALIA
-http://mediastream.pro/stream/1258/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT1.png" tvg-id=" group-title="ITALIA",RAI SPORT 1
-http://mediastream.pro/stream/922/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAISPORT2.png" tvg-id=" group-title="ITALIA",RAI SPORT 2
-http://mediastream.pro/stream/923/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CmFj0p2.png" tvg-id=" group-title="ITALIA",SKY SPORT MOTOGP IT
-http://mediastream.pro/stream/22211/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CmFj0p2.png" tvg-id=" group-title="ITALIA",SKY SPORT MOTOGP IT HD
-http://mediastream.pro/stream/1183/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png" tvg-id=" group-title="ITALIA",SKY SPORT F1 IT HD
-http://mediastream.pro/stream/920/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO 1
-http://mediastream.pro/stream/939/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO 2
-http://mediastream.pro/stream/1250/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO 3
-http://mediastream.pro/stream/1288/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO 4
-http://mediastream.pro/stream/1287/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO 5
-http://mediastream.pro/stream/1286/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/cd/Premium_calcio.png/260px-Premium_calcio.png" tvg-id=" group-title="ITALIA",PREMIUM CALCIO 6
-http://mediastream.pro/stream/2547/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT
-http://mediastream.pro/stream/1251/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT HD
-http://mediastream.pro/stream/938/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT 2
-http://mediastream.pro/stream/1249/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LYnoEog.png" tvg-id=" group-title="ITALIA",PREMIUM SPORT 2 HD
-http://mediastream.pro/stream/1109/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" tvg-id=" group-title="ITALIA",FOX SPORTS
-http://mediastream.pro/stream/2605/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Sky_Supercalcio_2010.png/revision/latest?cb=20150524203909" tvg-id=" group-title="ITALIA",SKY SUPERCALCIO
-http://mediastream.pro/stream/838/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Sky_Supercalcio_2010.png/revision/latest?cb=20150524203909" tvg-id=" group-title="ITALIA",SKY SUPERCALCIO HD
-http://mediastream.pro/stream/921/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORYLAB.png" tvg-id=" group-title="ITALIA",HISTORY LAB
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" tvg-id=" group-title="ITALIA",DMAX
@@ -1143,6 +1041,8 @@ http://78.157.210.110:8000/play/a04b/index.m3u8
 http://78.157.210.110:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/5STAR.png" tvg-id=" group-title="UK",5STAR +1
 http://78.157.210.110:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" tvg-id=" group-title="UK",Travel Channel
+http://tinyurl.com/y28gobso
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVIES4MEN.png" tvg-id=" group-title="UK",movies4men
 http://89.163.140.211:9898/movies4men/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PBSCHANNEL.png" tvg-id=" group-title="UK",PBS
@@ -1163,8 +1063,6 @@ http://78.157.210.110:8000/play/a01w/index.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.mulliganssportsbar.co.uk/wp-content/uploads/2017/05/RacingUK-01.png" tvg-id=" group-title="UK",Racing UK
 http://92.30.108.254:8004/play/a009
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOXNATION.png" tvg-id=" group-title="UK",Box Nation
-http://mediastream.pro/stream/4520/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARISENEWS.png" tvg-id=" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Sky_Arts_logo.svg/1280px-Sky_Arts_logo.svg.png" tvg-id=" group-title="UK",Sky Arts HD
@@ -1177,58 +1075,16 @@ http://92.30.108.254:8885/play/a003
 http://88.216.48.14:80/tlc/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" tvg-id=" group-title="UK",CNN
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.comQMc5EO.png" tvg-id=" group-title="UK",Sky Sports News HD
-http://mediastream.pro/stream/4343/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" tvg-id=" group-title="UK",Sky Sports Main Event HD
-http://mediastream.pro/stream/3848/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMIX.png" tvg-id=" group-title="UK",SKY Sports Mix HD
 http://92.30.108.254:8885/play/a002
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSFOOTBALL.png" tvg-id=" group-title="UK",Sky Sports Football HD
-http://mediastream.pro/stream/4529/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSCRICKET.png" tvg-id=" group-title="UK",Sky Sports Cricket HD
-http://mediastream.pro/stream/892/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" tvg-id=" group-title="UK",Sky Sports Golf HD
-http://mediastream.pro/stream/894/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" tvg-id=" group-title="UK",Sky Sports F1
-http://mediastream.pro/stream/887/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSPL.png" tvg-id=" group-title="UK",Sky Sports Premier League HD
-http://mediastream.pro/stream/4530/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSACTION.png" tvg-id=" group-title="UK",Sky Sports Action HD
-http://mediastream.pro/stream/4528/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSARENA.png" tvg-id=" group-title="UK",Sky Sports Arena HD
-http://mediastream.pro/stream/3847/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" tvg-id=" group-title="UK",BT Sport 1
-http://mediastream.pro/stream/3260/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" tvg-id=" group-title="UK",BT Sport 1 HD
 http://185-125-230-172.livesports24.online/btsportone.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" tvg-id=" group-title="UK",BT Sport 2 HD
 http://185.246.209.106/sports_bt_sports_2_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT3.png" tvg-id=" group-title="UK",BT Sport 3 HD
-http://mediastream.pro/stream/4377/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" tvg-id=" group-title="UK",BT Sport ESPN
-http://mediastream.pro/stream/4353/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" tvg-id=" group-title="UK",BT Sport ESPN HD
-http://mediastream.pro/stream/4376/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX1.png" tvg-id=" group-title="UK",BT Sport Extra 1
-http://mediastream.pro/stream/4358/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX2.png" tvg-id=" group-title="UK",BT Sport Extra 2
-http://mediastream.pro/stream/4357/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX3.png" tvg-id=" group-title="UK",BT Sport Extra 3
-http://mediastream.pro/stream/4356/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX4.png" tvg-id=" group-title="UK",BT Sport Extra 4
-http://mediastream.pro/stream/4355/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX5.png" tvg-id=" group-title="UK",BT Sport Extra 5
-http://mediastream.pro/stream/4354/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTHD.png" tvg-id=" group-title="UK",Eurosport HD
-http://mediastream.pro/stream/1348/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" tvg-id=" group-title="UK",Eurosport 2 HD
-http://mediastream.pro/stream/4373/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" tvg-id=" group-title="UK",Chelsea TV
 http://195.181.170.48:25461/livemachongz@gmail.com/uRXMe6NlG0/29690?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" tvg-id=" group-title="UK",MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/pp/premier_sports.png" tvg-id=" group-title="UK",Premier Sports
-http://mediastream.pro/stream/3295/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" tvg-id=" group-title="UK",Baby TV
 http://92.30.108.254:8885/play/a00x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJRTOO.png" tvg-id=" group-title="UK",Nick Jr Too
@@ -1309,30 +1165,22 @@ http://91.202.196.122:8000/play/a033/index.m3u8
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTSNETNY.png" tvg-id=" group-title="USA",SportsNet New York
 http://185.59.223.148/sports_sportsnet_nyc/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" tvg-id=" group-title="USA",WWE NETWORK
-http://mediastream.pro/stream/22229/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",ESPN USA
 http://185.246.209.106/sports_espn_hd/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",ESPN USA HD
 http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBCSPORTS.png" tvg-id=" group-title="USA",NBCSN
-http://mediastream.pro/stream/3275/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" tvg-id=" group-title="USA",FS1
 http://185.246.209.106/sports_fox_sports_1_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" tvg-id=" group-title="USA",FS1 HD
-http://mediastream.pro/stream/3261/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" tvg-id=" group-title="USA",NFL Network HD
-http://mediastream.pro/stream/3274/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" tvg-id=" group-title="USA",NBA
 http://185.246.209.106/sports_nba_tv_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" tvg-id=" group-title="USA",NBA HD
-http://mediastream.pro/stream/45235/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" tvg-id=" group-title="USA",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEGOLFCHANNEL.png" tvg-id=" group-title="USA",The Golf Channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXDEPORTES.png" tvg-id=" group-title="USA",FOX Deportes
 http://185.59.223.148/usa_sports_fox_deportes_hd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSN" tvg-id=" group-title="USA",beIN Sports en Espanol
+https://fubolive.com/live/beinsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSOCCERPLUS.png" tvg-id=" group-title="USA",FOX Soccer Plus
 http://185.59.223.148/usa_sports_fox_soccer_plus_hd/mpegts
 #N/D
