@@ -35,6 +35,8 @@ http://85.244.70.140:7000/play/a00y
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2019 - TeamBlue)
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL",SIC RADICAL FESTIVAIS (Copyright © 2019 - TeamBlue)
+https://live.impresa.pt/live/tricaster1/tricaster1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2019 - TeamBlue)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1 (Copyright © 2019 - TeamBlue)
