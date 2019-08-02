@@ -79,23 +79,23 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL 
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:-1,group-title="PORTUGAL",REDETV
+#EXTINF:-1 group-title="PORTUGAL",REDETV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",REDETV2
+#EXTINF:-1 group-title="PORTUGAL",REDETV2
 https://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",SBT
+#EXTINF:-1 group-title="PORTUGAL",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",SBT
+#EXTINF:-1 group-title="PORTUGAL",SBT
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",SBT
+#EXTINF:-1 group-title="PORTUGAL",SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",SBT
+#EXTINF:-1 group-title="PORTUGAL",SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",SBT
+#EXTINF:-1 group-title="PORTUGAL",SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",SBT
+#EXTINF:-1 group-title="PORTUGAL",SBT
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist.m3u8
-#EXTINF:-1,group-title="PORTUGAL",SBT
+#EXTINF:-1 group-title="PORTUGAL",SBT
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",HITTV 
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
@@ -117,5 +117,7 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 https://www.djing.com/tv/live.m3u8
 #EXTINF:-1 group-title="PORTUGAL",DJING SUMMER VIBES
 https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 group-title="PORTUGAL",DJING IBIZA
+https://www.djing.com/tv/dancefloor.m3u8
 #EXTINF:-1 group-title="PORTUGAL",MUSIC CHOISE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
