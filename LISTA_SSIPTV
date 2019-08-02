@@ -128,8 +128,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 group-title="PORTUGAL",CIDADE FM
 http://mcrwowza5.mcr.iol.pt/cidade/ngrp:cidade.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",COMERCIAL
-http://mcrwowza5.mcr.iol.pt/cidade/ngrp:comercial.stream_all/chunklist.m3u8
+http://mcrwowza5.mcr.iol.pt/comercial/ngrp:comercial.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",M80
-http://mcrwowza5.mcr.iol.pt/cidade/ngrp:m80.stream_all/chunklist.m3u8
+http://mcrwowza5.mcr.iol.pt/m80/ngrp:m80.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",89
 https://cast.nextdial.com.br/aradiorock
