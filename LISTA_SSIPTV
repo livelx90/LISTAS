@@ -131,6 +131,8 @@ http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/ante
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/antena280a/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",ANTENA 3
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL",ANTENA 3 MADEIRA
+http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/antena3madeira80a/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",LUSITÂNIA
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/lusitania80a/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",CIDADE FM
@@ -139,7 +141,9 @@ http://mcrwowza5.mcr.iol.pt/cidade/ngrp:cidade.stream_all/chunklist.m3u8
 http://mcrwowza5.mcr.iol.pt/comercial/ngrp:comercial.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",M80
 http://mcrwowza5.mcr.iol.pt/m80/ngrp:m80.stream_all/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",89
+#EXTINF:-1 group-title="PORTUGAL",89 FM RÁDIO ROCK (SP)
 https://cast.nextdial.com.br/aradiorock
+#EXTINF:-1 group-title="PORTUGAL",89 FM RÁDIO ROCK (GO)
+http://streamingv2.shoutcast.com/89fm-goiania
 #EXTINF:-1 group-title="PORTUGAL",MEGAHITS
 http://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.aac
