@@ -97,53 +97,53 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist.m3u8
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",HITTV 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",HITTV 
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1 group-title="PORTUGAL",HITMUSIC 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",HITMUSIC 
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?
-#EXTINF:-1 group-title="PORTUGAL",1MUSIC 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",1MUSIC 
 http://stream.1music.hu/stream/1music.m3u8?
-#EXTINF:-1 group-title="PORTUGAL",4FUN GOLD 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",4FUN GOLD 
 http://hls.redefine.pl/25670764/1580/0/hls576/masterlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",4FUN DANCE
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",4FUN DANCE
 http://hls.redefine.pl/99520853/1576/0/hls576/masterlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",NRJ 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",NRJ 
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",M20
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",M20
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:-1 group-title="PORTUGAL",4FUN 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",4FUN 
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1 group-title="PORTUGAL",DJING 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",DJING 
 https://www.djing.com/tv/live.m3u8
-#EXTINF:-1 group-title="PORTUGAL",DJING SUMMER VIBES
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",DJING SUMMER VIBES
 https://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 group-title="PORTUGAL",DJING IBIZA
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",DJING IBIZA
 https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="PORTUGAL",MUSIC CHOISE
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",MUSIC CHOISE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",MTV
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mtv-brasil-1-logo-png-transparent.png" group-title="PORTUGAL",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="PORTUGAL",TVE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1146790880722001921/XnEkKigl.png" group-title="PORTUGAL",TVE
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 group-title="PORTUGAL",ANTENA 1
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",ANTENA 1
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/antena180a/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",ANTENA 2
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",ANTENA 2
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/antena280a/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",ANTENA 3
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",ANTENA 3
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/antena380a/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",ANTENA 3 MADEIRA
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",ANTENA 3 MADEIRA
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/antena3madeira80a/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",LUSITÂNIA
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",LUSITÂNIA
 http://rtp-pull-live-zxcfdbnjak34-radioip.hls.adaptive.level3.net/liveradio/lusitania80a/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",CIDADE FM
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",CIDADE FM
 http://mcrwowza5.mcr.iol.pt/cidade/ngrp:cidade.stream_all/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",COMERCIAL
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",COMERCIAL
 http://mcrwowza5.mcr.iol.pt/comercial/ngrp:comercial.stream_all/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",M80
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",M80
 http://mcrwowza5.mcr.iol.pt/m80/ngrp:m80.stream_all/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",89 FM RÁDIO ROCK (SP)
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",89 FM RÁDIO ROCK (SP)
 https://cast.nextdial.com.br/aradiorock
-#EXTINF:-1 group-title="PORTUGAL",89 FM RÁDIO ROCK (GO)
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",89 FM RÁDIO ROCK (GO)
 http://streamingv2.shoutcast.com/89fm-goiania
-#EXTINF:-1 group-title="PORTUGAL",MEGAHITS
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-radio-512x512-pixel-512.png" group-title="PORTUGAL",MEGAHITS
 http://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.aac
