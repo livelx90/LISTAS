@@ -83,19 +83,19 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/l
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/RedeTV.png" group-title="PORTUGAL",REDETV2
 https://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/livelx90/LISTAS/blob/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/livelx90/LISTAS/blob/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/livelx90/LISTAS/blob/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/livelx90/LISTAS/blob/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/livelx90/LISTAS/blob/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.pngg" group-title="PORTUGAL",SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/livelx90/LISTAS/blob/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/livelx90/LISTAS/blob/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/livelx90/LISTAS/master/1200px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",HITTV 
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
