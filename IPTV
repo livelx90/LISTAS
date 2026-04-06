@@ -1,4 +1,5 @@
 #EXTM3U
+#PLAYLIST:Playlist1
 #EXTINF:-1 tvg-name="SIC" SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
 #EXTINF:-1 tvg-name="TVI" TVI
