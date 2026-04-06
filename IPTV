@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=2740111811&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgMzo1NzozMCBQTSZoYXNoX3ZhbHVlPVlHMlRwN2R1a0p5K0pNUGJMY2IwQ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hYTQxNjgwMC1kNzRjLTRlZDAtODlhZC1mOWEyNTY0N2M2M2E=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" TVI
 https://d36mxwpltmym4d.cloudfront.net/playlist_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8
