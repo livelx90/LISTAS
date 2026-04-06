@@ -16,10 +16,16 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8
 #EXTINF:-1 tvg-name="TVI",TVI
 https://d36mxwpltmym4d.cloudfront.net/playlist_2.m3u8
+#EXTINF:-1 tvg-name="TVI",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=2740158757&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgNTowOjEwIFBNJmhhc2hfdmFsdWU9dWtaSnZSTlBzRlEvWGloelB3MGdqUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA2OWFlMDIyLTMwYTktNDU1ZC05N2I3LWUzNjNkMzQyMzkxMw==
+#EXTINF:-1 tvg-name="TVI",TVI
+https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=241907835&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgMzozNDoyNCBQTSZoYXNoX3ZhbHVlPTFWU28vWHpDSC85TTl4M0JjaXIxeVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMWZlYWZkMi1kMTUxLTQ5NzAtODIyYS1mNjYzZjVjZTc4NmU=
 #EXTINF:-1 tvg-name="TVI Ficção",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8
 #EXTINF:-1 tvg-name="TVI Reality",TVI Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8
-#EXTINF:-1 tvg-name=V+ TVI",V+ TVI
+#EXTINF:-1 tvg-name="V+ TVI",V+ TVI
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8
+#EXTINF:-1 tvg-name="CNN",CNN
+https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=2740162967&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgNTo1OjggUE0maGFzaF92YWx1ZT1YeG9laENFdnh6elBxbWNOanVCNmxBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWY2NWUxZGEtYTk3Yy00Mjg4LTg4NWQtYWQ2ZmYyOTczZjBk
 
