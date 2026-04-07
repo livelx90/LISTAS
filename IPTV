@@ -31,5 +31,5 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #EXTINF:-1 tvg-name="V+ TVI",V+ TVI
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8
 #EXTINF:-1 tvg-name="CNN",CNN
-https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=2740162967&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgNTo1OjggUE0maGFzaF92YWx1ZT1YeG9laENFdnh6elBxbWNOanVCNmxBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWY2NWUxZGEtYTk3Yy00Mjg4LTg4NWQtYWQ2ZmYyOTczZjBk
+https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8
 
